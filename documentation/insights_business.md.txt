@@ -1,0 +1,61 @@
+# Insights Business — Pilotage Assurance 360
+
+## Résumé exécutif
+
+Ce projet Power BI fictif analyse la performance d’un portefeuille d’assurance en Guinée à travers les primes, les contrats, les sinistres, la marge estimée, les clients, les produits et les agences.
+
+L’objectif est de fournir une vue décisionnelle permettant à une compagnie d’assurance d’identifier ses moteurs de croissance, ses zones de risque et ses leviers d’amélioration commerciale.
+
+Globalement, le portefeuille affiche environ 77 Md GNF de primes, 5 000 contrats, une marge estimée de 64 Md GNF et un ratio sinistres/primes de 5,78 %. Ces indicateurs suggèrent une activité globalement rentable, avec un niveau de sinistres maîtrisé.
+
+## Insights clés
+
+### 1. Performance globale
+
+Le portefeuille présente une production de primes relativement stable sur la période 2023–2025. Le ratio sinistres/primes reste globalement maîtrisé, autour de 5,78 %, ce qui indique que les sinistres réglés absorbent une part limitée des primes générées.
+
+### 2. Produits
+
+Les produits Multirisque Professionnelle et Entreprise sont les principaux moteurs de primes et de marge estimée. Multirisque Professionnelle concentre également un volume important de sinistres réglés, ce qui s’explique en partie par son poids élevé dans le portefeuille.
+
+En revanche, les produits Auto et Santé affichent les ratios sinistres/primes les plus élevés. Ils nécessitent donc une surveillance prioritaire en matière de tarification, sélection des risques et suivi des sinistres.
+
+### 3. Sinistres
+
+Les coûts de sinistres restent globalement sous contrôle, mais certains pics mensuels apparaissent sur la période. L’analyse des types de sinistres et des délais de règlement permet d’identifier les dossiers qui pèsent le plus sur la rentabilité et l’efficacité opérationnelle.
+
+### 4. Clients
+
+Les particuliers génèrent le plus grand volume de primes, mais affichent une pression sinistres plus élevée et un taux de renouvellement plus faible que les segments professionnels. Les segments Grande Entreprise, PME et Professionnel semblent plus attractifs pour la fidélisation et la valeur long terme.
+
+### 5. Agences et canaux
+
+Les agences de Conakry concentrent la majorité de la performance commerciale, avec Conakry Kaloum en tête sur les primes, les contrats et la marge estimée.
+
+Les canaux Partenaire bancaire, Agence et Courtier sont les principaux moteurs de primes. Courtier et Partenaire bancaire affichent les meilleurs niveaux de renouvellement, ce qui en fait des canaux importants pour la fidélisation.
+
+## Recommandations business
+
+1. Renforcer la surveillance des produits Auto et Santé, qui présentent les ratios sinistres/primes les plus élevés.
+
+2. Capitaliser sur les produits Multirisque Professionnelle et Entreprise, qui contribuent fortement aux primes et à la marge estimée.
+
+3. Développer les segments professionnels et grande entreprise, qui affichent un meilleur potentiel de fidélisation et de valeur long terme.
+
+4. Renforcer les agences régionales afin de réduire la dépendance commerciale aux agences de Conakry.
+
+5. Prioriser les canaux Partenaire bancaire et Courtier, qui combinent volume de primes et meilleurs niveaux de renouvellement.
+
+## Limites de l’analyse
+
+Les données utilisées sont fictives et ont été créées pour un projet portfolio. Les conclusions doivent donc être interprétées comme un exercice de Business Intelligence et non comme une analyse réelle d’une compagnie d’assurance.
+
+La marge estimée est calculée à partir d’une approximation simple : primes moins sinistres réglés moins commissions. Elle ne prend pas en compte l’ensemble des charges opérationnelles, provisions techniques ou frais de gestion réels.
+
+## Prochaines améliorations
+
+- Ajouter une page dédiée au renouvellement et à la fidélisation.
+- Ajouter une analyse prévisionnelle des primes et des sinistres.
+- Créer une page de recommandations interactives.
+- Ajouter un modèle de scoring des contrats à risque.
+- Publier le projet sur GitHub avec captures d’écran, documentation et fichier Power BI.
