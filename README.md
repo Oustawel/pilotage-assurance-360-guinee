@@ -203,4 +203,4 @@ La marge estimée est calculée simplement à partir des primes, des sinistres r
 
 ## Auteur
 
-Projet réalisé par **Ousmane Camara** dans le cadre d’un portfolio Data / Business Intelligence.
+Projet réalisé par **Ousmane Tawel Camara** dans le cadre d’un portfolio Data / Business Intelligence.
