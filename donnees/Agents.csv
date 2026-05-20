@@ -1,0 +1,61 @@
+﻿ID Agent,Nom Agent,ID Agence,Canal Vente,Date Recrutement,Niveau Expérience
+AGT-001,Mamadou Doumbouya,AGC-001,Courtier,2019-04-03,Junior
+AGT-002,Aissatou Barry,AGC-001,Partenaire bancaire,2020-05-14,Junior
+AGT-003,Abdoulaye Condé,AGC-001,Partenaire bancaire,2021-05-17,Junior
+AGT-004,Aissatou Bangoura,AGC-001,Courtier,2020-07-08,Confirmé
+AGT-005,Thierno Bangoura,AGC-001,En ligne,2019-07-24,Junior
+AGT-006,Mariama Barry,AGC-001,Télévente,2018-07-18,Confirmé
+AGT-007,Rabi Doumbouya,AGC-001,Agence,2022-02-03,Confirmé
+AGT-008,Boubacar Barry,AGC-001,Partenaire bancaire,2019-08-24,Senior
+AGT-009,Rabi Traoré,AGC-001,Agence,2018-04-04,Confirmé
+AGT-010,Mariama Condé,AGC-002,Agence,2020-02-18,Junior
+AGT-011,Aissatou Guilavogui,AGC-002,En ligne,2019-03-06,Confirmé
+AGT-012,Aminata Konaté,AGC-002,Partenaire bancaire,2022-02-02,Junior
+AGT-013,Oumou Doumbouya,AGC-002,Partenaire bancaire,2019-03-26,Confirmé
+AGT-014,Sekou Bah,AGC-002,En ligne,2020-04-01,Junior
+AGT-015,Kadiatou Soumah,AGC-002,Courtier,2021-09-04,Confirmé
+AGT-016,Aissatou Doumbouya,AGC-002,Courtier,2019-05-21,Senior
+AGT-017,Rabi Bangoura,AGC-002,Partenaire bancaire,2020-03-28,Confirmé
+AGT-018,Mariama Cissé,AGC-003,Agence,2022-03-28,Junior
+AGT-019,Mohamed Konaté,AGC-003,Télévente,2021-05-06,Junior
+AGT-020,Rabi Tolno,AGC-003,Partenaire bancaire,2019-05-30,Expert
+AGT-021,Oumar Sow,AGC-003,En ligne,2022-04-24,Confirmé
+AGT-022,Lansana Bangoura,AGC-003,Courtier,2020-07-18,Junior
+AGT-023,Nene Konaté,AGC-003,Partenaire bancaire,2023-02-13,Junior
+AGT-024,Nene Fofana,AGC-003,Courtier,2018-11-10,Confirmé
+AGT-025,Aissatou Keita,AGC-004,Agence,2021-05-11,Junior
+AGT-026,Oumar Guilavogui,AGC-004,En ligne,2019-05-06,Junior
+AGT-027,Alpha Cissé,AGC-004,Agence,2023-06-26,Senior
+AGT-028,Mohamed Cissé,AGC-004,Partenaire bancaire,2018-12-05,Junior
+AGT-029,Kadiatou Sow,AGC-004,Courtier,2021-12-31,Junior
+AGT-030,Binta Keita,AGC-005,Télévente,2018-09-05,Junior
+AGT-031,Fodé Diallo,AGC-005,Partenaire bancaire,2021-02-08,Junior
+AGT-032,Mamadou Barry,AGC-005,Agence,2019-04-14,Junior
+AGT-033,Fodé Barry,AGC-005,Partenaire bancaire,2019-05-03,Junior
+AGT-034,Kadiatou Sow,AGC-005,Courtier,2022-01-21,Expert
+AGT-035,Kadiatou Cissé,AGC-006,Télévente,2019-01-25,Junior
+AGT-036,Hawa Bangoura,AGC-006,Télévente,2020-08-14,Senior
+AGT-037,Oumar Bah,AGC-006,Télévente,2022-01-31,Junior
+AGT-038,Sekou Traoré,AGC-006,Courtier,2021-01-03,Confirmé
+AGT-039,Aissatou Doumbouya,AGC-006,Télévente,2019-05-27,Senior
+AGT-040,Elhadj Sow,AGC-007,Agence,2018-04-14,Confirmé
+AGT-041,Alpha Condé,AGC-007,Courtier,2020-04-12,Confirmé
+AGT-042,Boubacar Bah,AGC-007,Courtier,2020-02-16,Junior
+AGT-043,Aminata Tolno,AGC-007,En ligne,2020-05-16,Confirmé
+AGT-044,Aissatou Traoré,AGC-007,En ligne,2019-03-22,Expert
+AGT-045,Fodé Bah,AGC-008,Agence,2021-04-11,Confirmé
+AGT-046,Ibrahima Keita,AGC-008,Agence,2022-10-10,Junior
+AGT-047,Sekou Millimono,AGC-008,Agence,2023-04-13,Senior
+AGT-048,Kadiatou Fofana,AGC-008,Agence,2021-06-22,Junior
+AGT-049,Aminata Traoré,AGC-009,En ligne,2019-05-04,Junior
+AGT-050,Lansana Tolno,AGC-009,En ligne,2023-03-18,Senior
+AGT-051,Mamadou Tolno,AGC-009,Partenaire bancaire,2021-02-27,Expert
+AGT-052,Aissatou Traoré,AGC-009,Partenaire bancaire,2019-06-28,Junior
+AGT-053,Mariama Condé,AGC-010,En ligne,2019-08-07,Junior
+AGT-054,Rabi Keita,AGC-010,Agence,2021-09-29,Senior
+AGT-055,Mariama Sylla,AGC-010,En ligne,2018-08-25,Senior
+AGT-056,Amadou Kouyaté,AGC-011,Partenaire bancaire,2019-03-08,Senior
+AGT-057,Amadou Keita,AGC-011,Télévente,2019-05-30,Expert
+AGT-058,Alpha Bangoura,AGC-011,En ligne,2018-04-01,Junior
+AGT-059,Amadou Konaté,AGC-012,Télévente,2021-02-03,Senior
+AGT-060,Oumar Barry,AGC-012,Courtier,2021-01-22,Junior

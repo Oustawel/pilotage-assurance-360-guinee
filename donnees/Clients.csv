@@ -1,0 +1,1001 @@
+﻿ID Client,Nom Client,Genre,Âge,Segment Client,Ville,Région,Pays,Date Inscription,Canal Acquisition,Statut Client
+CLT-0001,Rabi Sow,Féminin,31,Particulier,Conakry,Conakry,Guinée,2022-01-16,Recommandation,Inactif
+CLT-0002,Sekou Camara,Masculin,44,PME,Faranah,Haute Guinée,Guinée,2022-04-12,Partenaire bancaire,Actif
+CLT-0003,Thierno Konaté,Masculin,48,Particulier,Mamou,Moyenne Guinée,Guinée,2021-11-11,Campagne digitale,Inactif
+CLT-0004,Amadou Konaté,Masculin,66,Particulier,Guéckédou,Guinée Forestière,Guinée,2024-10-24,Campagne digitale,Actif
+CLT-0005,Hawa Kouyaté,Féminin,36,Particulier,Boké,Basse Guinée,Guinée,2022-03-27,Courtier,Actif
+CLT-0006,Amadou Guilavogui,Masculin,63,Particulier,Boké,Basse Guinée,Guinée,2024-09-23,Partenaire bancaire,Actif
+CLT-0007,Oumar Doumbouya,Masculin,33,Professionnel,Dubréka,Basse Guinée,Guinée,2020-03-19,Recommandation,Actif
+CLT-0008,Hawa Bangoura,Féminin,60,Grande Entreprise,Conakry,Conakry,Guinée,2025-01-16,Partenaire bancaire,Actif
+CLT-0009,Daouda Diallo,Masculin,55,Grande Entreprise,Labé,Moyenne Guinée,Guinée,2024-01-13,Prospection commerciale,Actif
+CLT-0010,Bangaly Bangoura,Masculin,26,Grande Entreprise,Siguiri,Haute Guinée,Guinée,2023-06-30,Courtier,Actif
+CLT-0011,Lansana Keita,Masculin,41,Professionnel,Kindia,Basse Guinée,Guinée,2023-11-28,Courtier,Actif
+CLT-0012,Daouda Millimono,Masculin,65,Professionnel,Conakry,Conakry,Guinée,2023-03-11,Courtier,Actif
+CLT-0013,Lansana Kouyaté,Masculin,35,Particulier,Nzérékoré,Guinée Forestière,Guinée,2023-09-02,Courtier,Actif
+CLT-0014,Kadiatou Keita,Féminin,52,PME,Guéckédou,Guinée Forestière,Guinée,2024-02-16,Agence,Actif
+CLT-0015,Nene Fofana,Féminin,43,Particulier,Kissidougou,Guinée Forestière,Guinée,2021-04-26,Prospection commerciale,Actif
+CLT-0016,Mohamed Diallo,Masculin,24,Particulier,Kankan,Haute Guinée,Guinée,2024-10-06,Recommandation,Actif
+CLT-0017,Boubacar Cissé,Masculin,47,Particulier,Boké,Basse Guinée,Guinée,2020-01-12,Recommandation,Inactif
+CLT-0018,Thierno Keita,Masculin,51,Particulier,Conakry,Conakry,Guinée,2024-10-03,Recommandation,Actif
+CLT-0019,Nene Sow,Féminin,60,Particulier,Mamou,Moyenne Guinée,Guinée,2022-06-25,Partenaire bancaire,Inactif
+CLT-0020,Nene Tolno,Féminin,32,Professionnel,Kankan,Haute Guinée,Guinée,2021-06-14,Agence,Inactif
+CLT-0021,Nene Cissé,Féminin,62,Particulier,Labé,Moyenne Guinée,Guinée,2024-01-01,Courtier,Actif
+CLT-0022,Hawa Sow,Féminin,27,Particulier,Conakry,Conakry,Guinée,2023-11-22,Agence,Actif
+CLT-0023,Daouda Bangoura,Masculin,43,Particulier,Labé,Moyenne Guinée,Guinée,2021-02-27,Campagne digitale,Actif
+CLT-0024,Kadiatou Millimono,Masculin,52,Particulier,Labé,Moyenne Guinée,Guinée,2024-03-23,Campagne digitale,Inactif
+CLT-0025,Nene Sow,Féminin,60,PME,Kindia,Basse Guinée,Guinée,2021-07-12,Campagne digitale,Actif
+CLT-0026,Hawa Millimono,Féminin,68,Particulier,Kankan,Haute Guinée,Guinée,2020-09-18,Partenaire bancaire,Actif
+CLT-0027,Rabi Baldé,Féminin,64,Particulier,Boké,Basse Guinée,Guinée,2020-10-04,Campagne digitale,Actif
+CLT-0028,Oumou Soumah,Féminin,35,Particulier,Kindia,Basse Guinée,Guinée,2024-12-06,Campagne digitale,Actif
+CLT-0029,Aminata Barry,Féminin,52,Particulier,Nzérékoré,Guinée Forestière,Guinée,2025-05-03,Courtier,Actif
+CLT-0030,Ibrahima Diallo,Masculin,37,Particulier,Conakry,Conakry,Guinée,2020-11-08,Agence,Actif
+CLT-0031,Kadiatou Traoré,Masculin,51,Professionnel,Faranah,Haute Guinée,Guinée,2020-12-09,Partenaire bancaire,Actif
+CLT-0032,Thierno Kouyaté,Masculin,28,Professionnel,Kissidougou,Guinée Forestière,Guinée,2023-03-25,Prospection commerciale,Résilié
+CLT-0033,Oumou Traoré,Féminin,26,Professionnel,Siguiri,Haute Guinée,Guinée,2021-05-12,Recommandation,Actif
+CLT-0034,Rabi Camara,Féminin,58,PME,Conakry,Conakry,Guinée,2022-05-27,Prospection commerciale,Actif
+CLT-0035,Fatoumata Bangoura,Féminin,53,Particulier,Dubréka,Basse Guinée,Guinée,2023-07-25,Campagne digitale,Actif
+CLT-0036,Aissatou Keita,Féminin,63,Particulier,Faranah,Haute Guinée,Guinée,2023-01-07,Campagne digitale,Actif
+CLT-0037,Hawa Condé,Féminin,27,Particulier,Kankan,Haute Guinée,Guinée,2024-03-16,Campagne digitale,Actif
+CLT-0038,Hawa Diallo,Féminin,53,PME,Conakry,Conakry,Guinée,2021-03-10,Courtier,Inactif
+CLT-0039,Aminata Fofana,Féminin,66,PME,Labé,Moyenne Guinée,Guinée,2022-11-24,Agence,Actif
+CLT-0040,Binta Sow,Féminin,37,Professionnel,Boké,Basse Guinée,Guinée,2022-10-02,Campagne digitale,Inactif
+CLT-0041,Lansana Condé,Masculin,47,Professionnel,Kindia,Basse Guinée,Guinée,2023-04-06,Courtier,Actif
+CLT-0042,Oumou Sow,Féminin,43,Particulier,Kankan,Haute Guinée,Guinée,2021-09-19,Courtier,Actif
+CLT-0043,Fodé Camara,Masculin,56,Grande Entreprise,Nzérékoré,Guinée Forestière,Guinée,2021-01-27,Agence,Actif
+CLT-0044,Rabi Keita,Féminin,60,Particulier,Conakry,Conakry,Guinée,2021-02-01,Courtier,Actif
+CLT-0045,Lansana Diallo,Masculin,67,Particulier,Kindia,Basse Guinée,Guinée,2025-06-18,Recommandation,Actif
+CLT-0046,Fatoumata Camara,Masculin,22,Professionnel,Kankan,Haute Guinée,Guinée,2022-06-21,Courtier,Actif
+CLT-0047,Amadou Cissé,Masculin,29,PME,Kindia,Basse Guinée,Guinée,2020-05-31,Partenaire bancaire,Actif
+CLT-0048,Mohamed Sylla,Masculin,58,Grande Entreprise,Conakry,Conakry,Guinée,2021-05-23,Recommandation,Actif
+CLT-0049,Rabi Fofana,Féminin,61,Particulier,Kankan,Haute Guinée,Guinée,2022-07-11,Campagne digitale,Actif
+CLT-0050,Aminata Baldé,Féminin,61,Particulier,Dubréka,Basse Guinée,Guinée,2020-07-22,Agence,Actif
+CLT-0051,Mariama Konaté,Féminin,37,Particulier,Conakry,Conakry,Guinée,2020-01-06,Campagne digitale,Actif
+CLT-0052,Aminata Bah,Féminin,36,Particulier,Kindia,Basse Guinée,Guinée,2024-10-26,Campagne digitale,Actif
+CLT-0053,Amadou Baldé,Masculin,64,PME,Conakry,Conakry,Guinée,2020-08-23,Partenaire bancaire,Actif
+CLT-0054,Amadou Sylla,Masculin,26,Particulier,Faranah,Haute Guinée,Guinée,2023-05-03,Prospection commerciale,Inactif
+CLT-0055,Binta Camara,Féminin,51,Professionnel,Mamou,Moyenne Guinée,Guinée,2025-04-14,Courtier,Actif
+CLT-0056,Binta Barry,Féminin,60,Particulier,Labé,Moyenne Guinée,Guinée,2021-10-22,Partenaire bancaire,Actif
+CLT-0057,Sekou Baldé,Masculin,59,Grande Entreprise,Dubréka,Basse Guinée,Guinée,2023-10-08,Courtier,Actif
+CLT-0058,Fatoumata Keita,Masculin,63,Particulier,Kindia,Basse Guinée,Guinée,2023-04-13,Campagne digitale,Actif
+CLT-0059,Mariama Cissé,Féminin,44,Particulier,Kindia,Basse Guinée,Guinée,2020-08-02,Agence,Actif
+CLT-0060,Aminata Millimono,Féminin,57,Particulier,Conakry,Conakry,Guinée,2021-05-31,Courtier,Actif
+CLT-0061,Nene Diallo,Féminin,64,PME,Kindia,Basse Guinée,Guinée,2020-04-21,Agence,Actif
+CLT-0062,Binta Bah,Féminin,35,Particulier,Conakry,Conakry,Guinée,2021-08-12,Campagne digitale,Inactif
+CLT-0063,Mariama Diallo,Féminin,62,Professionnel,Conakry,Conakry,Guinée,2020-11-20,Courtier,Actif
+CLT-0064,Mariama Condé,Féminin,29,Particulier,Conakry,Conakry,Guinée,2024-08-31,Agence,Actif
+CLT-0065,Nene Doumbouya,Féminin,48,PME,Dubréka,Basse Guinée,Guinée,2021-05-14,Campagne digitale,Actif
+CLT-0066,Kadiatou Fofana,Féminin,54,Professionnel,Conakry,Conakry,Guinée,2020-05-22,Courtier,Inactif
+CLT-0067,Hawa Keita,Féminin,39,PME,Conakry,Conakry,Guinée,2021-09-03,Partenaire bancaire,Actif
+CLT-0068,Aissatou Tolno,Féminin,56,Particulier,Kindia,Basse Guinée,Guinée,2024-04-11,Partenaire bancaire,Actif
+CLT-0069,Kadiatou Condé,Féminin,58,Particulier,Siguiri,Haute Guinée,Guinée,2022-04-21,Recommandation,Actif
+CLT-0070,Oumou Millimono,Féminin,64,PME,Kankan,Haute Guinée,Guinée,2020-11-07,Campagne digitale,Résilié
+CLT-0071,Mariama Baldé,Masculin,43,PME,Faranah,Haute Guinée,Guinée,2022-06-20,Recommandation,Actif
+CLT-0072,Fatoumata Sylla,Féminin,48,PME,Kissidougou,Guinée Forestière,Guinée,2020-06-02,Campagne digitale,Inactif
+CLT-0073,Hawa Fofana,Féminin,66,Particulier,Conakry,Conakry,Guinée,2021-11-03,Prospection commerciale,Inactif
+CLT-0074,Hawa Cissé,Féminin,56,Particulier,Conakry,Conakry,Guinée,2023-07-16,Prospection commerciale,Résilié
+CLT-0075,Alpha Bangoura,Masculin,28,PME,Nzérékoré,Guinée Forestière,Guinée,2020-07-24,Campagne digitale,Actif
+CLT-0076,Fatoumata Bah,Féminin,42,PME,Conakry,Conakry,Guinée,2022-02-06,Campagne digitale,Actif
+CLT-0077,Rabi Konaté,Féminin,32,Particulier,Nzérékoré,Guinée Forestière,Guinée,2022-02-22,Partenaire bancaire,Actif
+CLT-0078,Rabi Sylla,Féminin,36,Particulier,Kindia,Basse Guinée,Guinée,2021-06-06,Prospection commerciale,Actif
+CLT-0079,Aminata Sow,Féminin,32,Particulier,Kissidougou,Guinée Forestière,Guinée,2023-04-18,Courtier,Actif
+CLT-0080,Aminata Tolno,Féminin,41,Particulier,Labé,Moyenne Guinée,Guinée,2022-09-16,Recommandation,Actif
+CLT-0081,Rabi Kouyaté,Féminin,66,Particulier,Dubréka,Basse Guinée,Guinée,2023-09-10,Campagne digitale,Actif
+CLT-0082,Aminata Cissé,Masculin,40,PME,Conakry,Conakry,Guinée,2024-06-30,Courtier,Actif
+CLT-0083,Aminata Doumbouya,Masculin,65,PME,Boké,Basse Guinée,Guinée,2023-10-26,Agence,Actif
+CLT-0084,Lansana Tolno,Masculin,24,Professionnel,Mamou,Moyenne Guinée,Guinée,2020-07-03,Courtier,Actif
+CLT-0085,Aissatou Traoré,Féminin,30,PME,Faranah,Haute Guinée,Guinée,2022-01-19,Partenaire bancaire,Actif
+CLT-0086,Aissatou Doumbouya,Féminin,52,Grande Entreprise,Conakry,Conakry,Guinée,2024-11-17,Courtier,Inactif
+CLT-0087,Mariama Sylla,Féminin,36,PME,Nzérékoré,Guinée Forestière,Guinée,2025-06-29,Campagne digitale,Résilié
+CLT-0088,Mariama Millimono,Féminin,22,Particulier,Conakry,Conakry,Guinée,2022-01-24,Prospection commerciale,Actif
+CLT-0089,Rabi Millimono,Féminin,62,Grande Entreprise,Conakry,Conakry,Guinée,2021-04-23,Campagne digitale,Actif
+CLT-0090,Rabi Condé,Féminin,63,Particulier,Siguiri,Haute Guinée,Guinée,2025-02-05,Prospection commerciale,Actif
+CLT-0091,Mariama Sylla,Féminin,24,Grande Entreprise,Conakry,Conakry,Guinée,2022-10-05,Recommandation,Actif
+CLT-0092,Boubacar Tolno,Masculin,45,Professionnel,Mamou,Moyenne Guinée,Guinée,2025-04-21,Partenaire bancaire,Actif
+CLT-0093,Daouda Camara,Masculin,53,Professionnel,Kissidougou,Guinée Forestière,Guinée,2021-07-26,Recommandation,Actif
+CLT-0094,Elhadj Tolno,Masculin,37,PME,Conakry,Conakry,Guinée,2023-11-05,Courtier,Actif
+CLT-0095,Fatoumata Millimono,Féminin,39,Particulier,Conakry,Conakry,Guinée,2024-10-02,Campagne digitale,Actif
+CLT-0096,Aminata Diallo,Masculin,25,PME,Conakry,Conakry,Guinée,2020-09-14,Partenaire bancaire,Actif
+CLT-0097,Kadiatou Traoré,Masculin,36,Particulier,Conakry,Conakry,Guinée,2025-01-18,Partenaire bancaire,Actif
+CLT-0098,Mohamed Sow,Masculin,38,PME,Conakry,Conakry,Guinée,2024-11-09,Recommandation,Actif
+CLT-0099,Kadiatou Baldé,Féminin,42,Particulier,Kindia,Basse Guinée,Guinée,2020-09-16,Prospection commerciale,Actif
+CLT-0100,Alpha Cissé,Masculin,50,PME,Labé,Moyenne Guinée,Guinée,2020-08-11,Campagne digitale,Actif
+CLT-0101,Mariama Kouyaté,Masculin,51,Professionnel,Conakry,Conakry,Guinée,2022-09-07,Campagne digitale,Actif
+CLT-0102,Fatoumata Tolno,Masculin,26,PME,Conakry,Conakry,Guinée,2020-10-30,Recommandation,Actif
+CLT-0103,Oumou Fofana,Féminin,55,Particulier,Kankan,Haute Guinée,Guinée,2022-05-31,Recommandation,Inactif
+CLT-0104,Aissatou Traoré,Masculin,49,Particulier,Conakry,Conakry,Guinée,2021-11-25,Campagne digitale,Actif
+CLT-0105,Fodé Bangoura,Masculin,42,Professionnel,Labé,Moyenne Guinée,Guinée,2020-11-08,Prospection commerciale,Résilié
+CLT-0106,Alpha Barry,Masculin,27,Particulier,Mamou,Moyenne Guinée,Guinée,2022-02-02,Agence,Actif
+CLT-0107,Mariama Bangoura,Féminin,44,PME,Guéckédou,Guinée Forestière,Guinée,2022-05-16,Prospection commerciale,Actif
+CLT-0108,Rabi Kouyaté,Féminin,44,Particulier,Kankan,Haute Guinée,Guinée,2020-11-12,Prospection commerciale,Actif
+CLT-0109,Bangaly Sow,Masculin,45,Particulier,Kindia,Basse Guinée,Guinée,2021-04-08,Campagne digitale,Inactif
+CLT-0110,Aminata Doumbouya,Masculin,23,Particulier,Mamou,Moyenne Guinée,Guinée,2021-09-24,Courtier,Actif
+CLT-0111,Mohamed Baldé,Masculin,64,Particulier,Conakry,Conakry,Guinée,2023-07-20,Recommandation,Actif
+CLT-0112,Boubacar Bangoura,Masculin,51,Particulier,Labé,Moyenne Guinée,Guinée,2024-01-17,Courtier,Inactif
+CLT-0113,Ibrahima Sylla,Masculin,32,PME,Conakry,Conakry,Guinée,2020-06-16,Courtier,Actif
+CLT-0114,Binta Fofana,Féminin,50,Particulier,Conakry,Conakry,Guinée,2022-11-15,Recommandation,Actif
+CLT-0115,Lansana Baldé,Masculin,53,Particulier,Kindia,Basse Guinée,Guinée,2021-03-27,Campagne digitale,Résilié
+CLT-0116,Mamadou Traoré,Masculin,41,Grande Entreprise,Boké,Basse Guinée,Guinée,2024-04-14,Courtier,Actif
+CLT-0117,Mamadou Cissé,Masculin,49,Particulier,Labé,Moyenne Guinée,Guinée,2023-12-12,Agence,Actif
+CLT-0118,Mariama Millimono,Féminin,24,Particulier,Kankan,Haute Guinée,Guinée,2020-06-08,Courtier,Actif
+CLT-0119,Oumou Kouyaté,Féminin,29,Particulier,Dubréka,Basse Guinée,Guinée,2020-12-17,Partenaire bancaire,Actif
+CLT-0120,Mariama Bangoura,Féminin,28,Particulier,Nzérékoré,Guinée Forestière,Guinée,2022-12-09,Recommandation,Actif
+CLT-0121,Hawa Condé,Féminin,43,PME,Conakry,Conakry,Guinée,2023-07-20,Recommandation,Actif
+CLT-0122,Bangaly Guilavogui,Masculin,68,Grande Entreprise,Kankan,Haute Guinée,Guinée,2020-10-29,Agence,Actif
+CLT-0123,Kadiatou Konaté,Féminin,60,Particulier,Mamou,Moyenne Guinée,Guinée,2020-06-03,Agence,Résilié
+CLT-0124,Binta Baldé,Féminin,59,Particulier,Kissidougou,Guinée Forestière,Guinée,2023-03-02,Prospection commerciale,Actif
+CLT-0125,Hawa Sylla,Féminin,50,Particulier,Kankan,Haute Guinée,Guinée,2021-09-12,Courtier,Actif
+CLT-0126,Nene Barry,Féminin,41,Particulier,Conakry,Conakry,Guinée,2022-01-25,Courtier,Actif
+CLT-0127,Aminata Fofana,Masculin,54,Particulier,Nzérékoré,Guinée Forestière,Guinée,2025-05-08,Prospection commerciale,Inactif
+CLT-0128,Rabi Traoré,Féminin,42,Professionnel,Kankan,Haute Guinée,Guinée,2025-05-15,Recommandation,Actif
+CLT-0129,Mariama Keita,Féminin,63,Particulier,Conakry,Conakry,Guinée,2022-06-15,Campagne digitale,Actif
+CLT-0130,Bangaly Guilavogui,Masculin,40,Particulier,Faranah,Haute Guinée,Guinée,2023-10-22,Partenaire bancaire,Actif
+CLT-0131,Mariama Soumah,Féminin,28,Professionnel,Labé,Moyenne Guinée,Guinée,2021-05-31,Prospection commerciale,Inactif
+CLT-0132,Fodé Barry,Masculin,59,Professionnel,Guéckédou,Guinée Forestière,Guinée,2021-09-27,Prospection commerciale,Actif
+CLT-0133,Aissatou Fofana,Féminin,67,Grande Entreprise,Conakry,Conakry,Guinée,2022-02-10,Prospection commerciale,Inactif
+CLT-0134,Mariama Barry,Masculin,63,Professionnel,Kankan,Haute Guinée,Guinée,2020-02-07,Courtier,Actif
+CLT-0135,Fodé Cissé,Masculin,34,Particulier,Conakry,Conakry,Guinée,2020-06-07,Courtier,Inactif
+CLT-0136,Mariama Sow,Masculin,55,Particulier,Kindia,Basse Guinée,Guinée,2024-04-18,Partenaire bancaire,Actif
+CLT-0137,Aissatou Konaté,Féminin,33,PME,Boké,Basse Guinée,Guinée,2024-07-14,Agence,Actif
+CLT-0138,Daouda Guilavogui,Masculin,65,Professionnel,Dubréka,Basse Guinée,Guinée,2023-06-04,Courtier,Inactif
+CLT-0139,Kadiatou Sow,Féminin,37,Particulier,Faranah,Haute Guinée,Guinée,2022-08-18,Agence,Actif
+CLT-0140,Binta Kouyaté,Féminin,46,Particulier,Labé,Moyenne Guinée,Guinée,2020-11-27,Agence,Inactif
+CLT-0141,Amadou Bah,Masculin,63,Particulier,Labé,Moyenne Guinée,Guinée,2025-03-28,Recommandation,Actif
+CLT-0142,Lansana Barry,Masculin,32,Particulier,Guéckédou,Guinée Forestière,Guinée,2020-10-28,Campagne digitale,Actif
+CLT-0143,Elhadj Guilavogui,Masculin,23,Particulier,Labé,Moyenne Guinée,Guinée,2022-02-04,Agence,Actif
+CLT-0144,Bangaly Condé,Masculin,23,Particulier,Conakry,Conakry,Guinée,2024-01-03,Prospection commerciale,Actif
+CLT-0145,Mohamed Bah,Masculin,40,Grande Entreprise,Kindia,Basse Guinée,Guinée,2024-08-29,Agence,Inactif
+CLT-0146,Binta Fofana,Féminin,22,Grande Entreprise,Conakry,Conakry,Guinée,2021-03-17,Agence,Actif
+CLT-0147,Mariama Kouyaté,Féminin,37,Particulier,Conakry,Conakry,Guinée,2022-05-09,Prospection commerciale,Inactif
+CLT-0148,Mariama Camara,Féminin,53,Professionnel,Conakry,Conakry,Guinée,2022-11-21,Partenaire bancaire,Actif
+CLT-0149,Lansana Bangoura,Masculin,22,Professionnel,Conakry,Conakry,Guinée,2022-05-03,Agence,Actif
+CLT-0150,Mariama Guilavogui,Masculin,26,Grande Entreprise,Labé,Moyenne Guinée,Guinée,2024-05-29,Partenaire bancaire,Actif
+CLT-0151,Binta Bah,Féminin,62,Particulier,Labé,Moyenne Guinée,Guinée,2024-03-10,Recommandation,Actif
+CLT-0152,Bangaly Condé,Masculin,68,Professionnel,Conakry,Conakry,Guinée,2023-04-06,Prospection commerciale,Inactif
+CLT-0153,Ibrahima Guilavogui,Masculin,56,Particulier,Boké,Basse Guinée,Guinée,2024-08-27,Prospection commerciale,Actif
+CLT-0154,Aissatou Sylla,Féminin,26,Professionnel,Kissidougou,Guinée Forestière,Guinée,2020-03-16,Courtier,Actif
+CLT-0155,Ibrahima Soumah,Masculin,41,Particulier,Dubréka,Basse Guinée,Guinée,2023-01-17,Campagne digitale,Actif
+CLT-0156,Lansana Guilavogui,Masculin,25,PME,Conakry,Conakry,Guinée,2020-09-11,Courtier,Actif
+CLT-0157,Binta Millimono,Féminin,43,Grande Entreprise,Kindia,Basse Guinée,Guinée,2022-10-15,Courtier,Résilié
+CLT-0158,Mariama Bangoura,Féminin,27,Particulier,Dubréka,Basse Guinée,Guinée,2021-01-04,Partenaire bancaire,Actif
+CLT-0159,Alpha Soumah,Masculin,64,Particulier,Kankan,Haute Guinée,Guinée,2024-01-09,Campagne digitale,Actif
+CLT-0160,Hawa Tolno,Féminin,24,Professionnel,Guéckédou,Guinée Forestière,Guinée,2023-06-13,Campagne digitale,Actif
+CLT-0161,Alpha Millimono,Masculin,45,Particulier,Mamou,Moyenne Guinée,Guinée,2020-11-23,Recommandation,Actif
+CLT-0162,Fatoumata Sylla,Féminin,26,Particulier,Boké,Basse Guinée,Guinée,2022-01-11,Campagne digitale,Résilié
+CLT-0163,Aminata Sylla,Masculin,65,Particulier,Labé,Moyenne Guinée,Guinée,2022-06-28,Recommandation,Actif
+CLT-0164,Oumou Soumah,Féminin,63,Particulier,Dubréka,Basse Guinée,Guinée,2020-02-23,Prospection commerciale,Actif
+CLT-0165,Nene Camara,Féminin,38,PME,Nzérékoré,Guinée Forestière,Guinée,2021-03-15,Partenaire bancaire,Actif
+CLT-0166,Kadiatou Camara,Féminin,30,PME,Kindia,Basse Guinée,Guinée,2025-01-14,Prospection commerciale,Actif
+CLT-0167,Fodé Guilavogui,Masculin,67,Particulier,Nzérékoré,Guinée Forestière,Guinée,2024-12-30,Courtier,Inactif
+CLT-0168,Bangaly Keita,Masculin,36,Particulier,Conakry,Conakry,Guinée,2020-10-11,Agence,Inactif
+CLT-0169,Bangaly Sow,Masculin,58,Particulier,Faranah,Haute Guinée,Guinée,2023-02-03,Agence,Actif
+CLT-0170,Alpha Kouyaté,Masculin,47,Grande Entreprise,Nzérékoré,Guinée Forestière,Guinée,2022-12-12,Campagne digitale,Inactif
+CLT-0171,Mohamed Soumah,Masculin,63,Particulier,Kankan,Haute Guinée,Guinée,2022-11-25,Courtier,Actif
+CLT-0172,Mohamed Bangoura,Masculin,54,Grande Entreprise,Conakry,Conakry,Guinée,2020-09-11,Partenaire bancaire,Actif
+CLT-0173,Thierno Soumah,Masculin,67,Particulier,Kissidougou,Guinée Forestière,Guinée,2022-11-28,Courtier,Inactif
+CLT-0174,Kadiatou Sow,Féminin,39,Particulier,Kindia,Basse Guinée,Guinée,2022-12-28,Recommandation,Actif
+CLT-0175,Kadiatou Baldé,Masculin,31,Particulier,Boké,Basse Guinée,Guinée,2025-01-21,Partenaire bancaire,Actif
+CLT-0176,Mamadou Barry,Masculin,24,Grande Entreprise,Boké,Basse Guinée,Guinée,2021-06-26,Prospection commerciale,Actif
+CLT-0177,Rabi Diallo,Féminin,53,PME,Labé,Moyenne Guinée,Guinée,2023-08-07,Courtier,Actif
+CLT-0178,Aminata Tolno,Féminin,26,Professionnel,Conakry,Conakry,Guinée,2022-05-01,Campagne digitale,Actif
+CLT-0179,Rabi Sylla,Féminin,42,PME,Conakry,Conakry,Guinée,2024-10-28,Courtier,Résilié
+CLT-0180,Bangaly Keita,Masculin,57,Particulier,Conakry,Conakry,Guinée,2020-09-07,Courtier,Actif
+CLT-0181,Oumar Bah,Masculin,40,Grande Entreprise,Faranah,Haute Guinée,Guinée,2022-05-06,Agence,Résilié
+CLT-0182,Fodé Baldé,Masculin,68,Particulier,Faranah,Haute Guinée,Guinée,2022-10-17,Partenaire bancaire,Actif
+CLT-0183,Binta Diallo,Féminin,27,Grande Entreprise,Labé,Moyenne Guinée,Guinée,2025-06-02,Agence,Actif
+CLT-0184,Fatoumata Bah,Féminin,40,Particulier,Guéckédou,Guinée Forestière,Guinée,2023-09-01,Prospection commerciale,Actif
+CLT-0185,Oumar Bangoura,Masculin,30,PME,Nzérékoré,Guinée Forestière,Guinée,2024-04-13,Campagne digitale,Actif
+CLT-0186,Fatoumata Baldé,Féminin,57,Particulier,Nzérékoré,Guinée Forestière,Guinée,2020-05-30,Campagne digitale,Actif
+CLT-0187,Rabi Fofana,Féminin,29,Particulier,Conakry,Conakry,Guinée,2022-02-03,Courtier,Actif
+CLT-0188,Aissatou Traoré,Féminin,60,Particulier,Kankan,Haute Guinée,Guinée,2020-04-02,Recommandation,Actif
+CLT-0189,Binta Keita,Féminin,51,Particulier,Guéckédou,Guinée Forestière,Guinée,2020-10-13,Courtier,Résilié
+CLT-0190,Aissatou Millimono,Féminin,61,Professionnel,Kindia,Basse Guinée,Guinée,2021-11-19,Partenaire bancaire,Inactif
+CLT-0191,Rabi Kouyaté,Féminin,52,PME,Conakry,Conakry,Guinée,2023-10-11,Recommandation,Résilié
+CLT-0192,Fatoumata Fofana,Féminin,52,Particulier,Boké,Basse Guinée,Guinée,2025-06-13,Partenaire bancaire,Actif
+CLT-0193,Kadiatou Cissé,Masculin,32,Particulier,Mamou,Moyenne Guinée,Guinée,2024-05-05,Campagne digitale,Actif
+CLT-0194,Ibrahima Baldé,Masculin,66,Particulier,Conakry,Conakry,Guinée,2021-10-04,Campagne digitale,Actif
+CLT-0195,Daouda Keita,Masculin,61,Grande Entreprise,Faranah,Haute Guinée,Guinée,2024-02-15,Prospection commerciale,Actif
+CLT-0196,Mariama Traoré,Masculin,57,Particulier,Boké,Basse Guinée,Guinée,2022-12-12,Campagne digitale,Actif
+CLT-0197,Elhadj Sow,Masculin,43,Particulier,Boké,Basse Guinée,Guinée,2024-11-11,Prospection commerciale,Actif
+CLT-0198,Rabi Cissé,Féminin,34,Grande Entreprise,Conakry,Conakry,Guinée,2021-09-03,Agence,Résilié
+CLT-0199,Aminata Traoré,Féminin,66,Professionnel,Kindia,Basse Guinée,Guinée,2021-12-15,Partenaire bancaire,Résilié
+CLT-0200,Aminata Camara,Féminin,58,Professionnel,Labé,Moyenne Guinée,Guinée,2025-06-30,Campagne digitale,Inactif
+CLT-0201,Lansana Bah,Masculin,40,Grande Entreprise,Conakry,Conakry,Guinée,2025-03-07,Campagne digitale,Actif
+CLT-0202,Kadiatou Traoré,Féminin,56,Particulier,Nzérékoré,Guinée Forestière,Guinée,2021-07-10,Agence,Actif
+CLT-0203,Sekou Bah,Masculin,64,Grande Entreprise,Conakry,Conakry,Guinée,2021-04-21,Recommandation,Actif
+CLT-0204,Binta Camara,Féminin,65,PME,Conakry,Conakry,Guinée,2023-02-01,Agence,Actif
+CLT-0205,Binta Traoré,Féminin,40,Particulier,Boké,Basse Guinée,Guinée,2025-02-02,Recommandation,Actif
+CLT-0206,Aissatou Bah,Masculin,33,Particulier,Siguiri,Haute Guinée,Guinée,2025-03-27,Recommandation,Résilié
+CLT-0207,Binta Konaté,Féminin,40,PME,Conakry,Conakry,Guinée,2023-03-09,Partenaire bancaire,Actif
+CLT-0208,Aminata Tolno,Féminin,63,Particulier,Kankan,Haute Guinée,Guinée,2025-04-06,Agence,Inactif
+CLT-0209,Aminata Traoré,Féminin,29,Particulier,Mamou,Moyenne Guinée,Guinée,2023-08-20,Courtier,Actif
+CLT-0210,Fodé Kouyaté,Masculin,58,Professionnel,Conakry,Conakry,Guinée,2023-06-05,Prospection commerciale,Inactif
+CLT-0211,Nene Soumah,Féminin,27,Particulier,Conakry,Conakry,Guinée,2020-10-14,Campagne digitale,Actif
+CLT-0212,Mamadou Doumbouya,Masculin,46,Particulier,Mamou,Moyenne Guinée,Guinée,2025-05-07,Courtier,Actif
+CLT-0213,Amadou Guilavogui,Masculin,66,Particulier,Boké,Basse Guinée,Guinée,2022-08-11,Courtier,Actif
+CLT-0214,Mariama Kouyaté,Féminin,45,Professionnel,Conakry,Conakry,Guinée,2020-09-30,Campagne digitale,Actif
+CLT-0215,Oumou Sow,Féminin,52,PME,Mamou,Moyenne Guinée,Guinée,2024-08-17,Agence,Inactif
+CLT-0216,Mariama Tolno,Masculin,55,Professionnel,Conakry,Conakry,Guinée,2023-03-01,Recommandation,Actif
+CLT-0217,Kadiatou Sow,Masculin,31,Particulier,Siguiri,Haute Guinée,Guinée,2022-06-23,Recommandation,Actif
+CLT-0218,Mariama Keita,Féminin,50,PME,Kindia,Basse Guinée,Guinée,2022-11-17,Campagne digitale,Actif
+CLT-0219,Aissatou Tolno,Masculin,65,PME,Nzérékoré,Guinée Forestière,Guinée,2022-03-21,Courtier,Inactif
+CLT-0220,Kadiatou Barry,Masculin,24,Particulier,Mamou,Moyenne Guinée,Guinée,2023-01-13,Recommandation,Résilié
+CLT-0221,Fatoumata Bah,Masculin,40,Particulier,Faranah,Haute Guinée,Guinée,2024-04-17,Prospection commerciale,Résilié
+CLT-0222,Hawa Millimono,Féminin,50,PME,Siguiri,Haute Guinée,Guinée,2022-02-08,Recommandation,Actif
+CLT-0223,Bangaly Camara,Masculin,33,Grande Entreprise,Conakry,Conakry,Guinée,2020-09-17,Prospection commerciale,Résilié
+CLT-0224,Mamadou Kouyaté,Masculin,51,Professionnel,Nzérékoré,Guinée Forestière,Guinée,2022-12-25,Campagne digitale,Inactif
+CLT-0225,Elhadj Guilavogui,Masculin,31,Particulier,Kissidougou,Guinée Forestière,Guinée,2024-01-24,Recommandation,Actif
+CLT-0226,Rabi Diallo,Féminin,37,Particulier,Conakry,Conakry,Guinée,2020-03-09,Campagne digitale,Actif
+CLT-0227,Sekou Bah,Masculin,47,Particulier,Nzérékoré,Guinée Forestière,Guinée,2024-03-24,Recommandation,Actif
+CLT-0228,Kadiatou Baldé,Féminin,42,Professionnel,Faranah,Haute Guinée,Guinée,2024-08-03,Courtier,Actif
+CLT-0229,Mariama Condé,Masculin,48,Particulier,Conakry,Conakry,Guinée,2025-04-26,Partenaire bancaire,Inactif
+CLT-0230,Daouda Sow,Masculin,53,Particulier,Kindia,Basse Guinée,Guinée,2023-08-10,Prospection commerciale,Actif
+CLT-0231,Oumou Bangoura,Féminin,31,Particulier,Conakry,Conakry,Guinée,2023-01-06,Campagne digitale,Actif
+CLT-0232,Lansana Sylla,Masculin,51,Grande Entreprise,Labé,Moyenne Guinée,Guinée,2025-06-05,Campagne digitale,Actif
+CLT-0233,Boubacar Condé,Masculin,38,Particulier,Boké,Basse Guinée,Guinée,2025-03-03,Campagne digitale,Inactif
+CLT-0234,Aissatou Traoré,Masculin,25,Particulier,Boké,Basse Guinée,Guinée,2023-05-19,Recommandation,Inactif
+CLT-0235,Kadiatou Sow,Masculin,35,Particulier,Siguiri,Haute Guinée,Guinée,2021-11-12,Courtier,Résilié
+CLT-0236,Abdoulaye Traoré,Masculin,29,Professionnel,Mamou,Moyenne Guinée,Guinée,2025-02-15,Agence,Actif
+CLT-0237,Boubacar Condé,Masculin,57,Particulier,Kindia,Basse Guinée,Guinée,2022-08-12,Partenaire bancaire,Actif
+CLT-0238,Aminata Guilavogui,Féminin,54,PME,Kindia,Basse Guinée,Guinée,2024-07-02,Prospection commerciale,Actif
+CLT-0239,Kadiatou Guilavogui,Féminin,42,Particulier,Nzérékoré,Guinée Forestière,Guinée,2021-03-29,Prospection commerciale,Actif
+CLT-0240,Nene Baldé,Féminin,59,Professionnel,Kindia,Basse Guinée,Guinée,2021-02-05,Courtier,Actif
+CLT-0241,Fatoumata Sow,Masculin,63,Grande Entreprise,Conakry,Conakry,Guinée,2024-04-12,Campagne digitale,Résilié
+CLT-0242,Binta Konaté,Féminin,68,PME,Conakry,Conakry,Guinée,2024-01-15,Partenaire bancaire,Actif
+CLT-0243,Mariama Bah,Masculin,26,Grande Entreprise,Nzérékoré,Guinée Forestière,Guinée,2024-04-14,Recommandation,Actif
+CLT-0244,Alpha Sylla,Masculin,22,Particulier,Kankan,Haute Guinée,Guinée,2020-05-03,Partenaire bancaire,Actif
+CLT-0245,Binta Diallo,Féminin,22,Particulier,Labé,Moyenne Guinée,Guinée,2020-02-04,Partenaire bancaire,Actif
+CLT-0246,Fatoumata Keita,Féminin,66,Professionnel,Faranah,Haute Guinée,Guinée,2025-02-06,Agence,Actif
+CLT-0247,Mariama Sylla,Masculin,37,Particulier,Kankan,Haute Guinée,Guinée,2024-07-27,Courtier,Actif
+CLT-0248,Mariama Guilavogui,Féminin,47,Particulier,Conakry,Conakry,Guinée,2023-11-28,Agence,Actif
+CLT-0249,Ibrahima Barry,Masculin,47,Particulier,Nzérékoré,Guinée Forestière,Guinée,2020-04-24,Prospection commerciale,Actif
+CLT-0250,Alpha Cissé,Masculin,49,Professionnel,Kindia,Basse Guinée,Guinée,2025-06-24,Recommandation,Inactif
+CLT-0251,Sekou Traoré,Masculin,66,PME,Kindia,Basse Guinée,Guinée,2020-04-05,Recommandation,Actif
+CLT-0252,Nene Baldé,Féminin,64,Particulier,Kissidougou,Guinée Forestière,Guinée,2021-10-06,Recommandation,Résilié
+CLT-0253,Boubacar Barry,Masculin,41,Particulier,Conakry,Conakry,Guinée,2024-09-05,Campagne digitale,Actif
+CLT-0254,Oumou Sylla,Féminin,66,Professionnel,Kankan,Haute Guinée,Guinée,2025-06-18,Courtier,Actif
+CLT-0255,Kadiatou Barry,Féminin,43,Professionnel,Boké,Basse Guinée,Guinée,2023-05-04,Campagne digitale,Résilié
+CLT-0256,Fatoumata Doumbouya,Féminin,50,Particulier,Labé,Moyenne Guinée,Guinée,2025-04-11,Campagne digitale,Actif
+CLT-0257,Mariama Fofana,Féminin,40,PME,Nzérékoré,Guinée Forestière,Guinée,2020-06-17,Courtier,Actif
+CLT-0258,Boubacar Soumah,Masculin,45,Particulier,Conakry,Conakry,Guinée,2021-09-23,Campagne digitale,Actif
+CLT-0259,Mariama Sylla,Féminin,27,Particulier,Kankan,Haute Guinée,Guinée,2023-02-10,Partenaire bancaire,Actif
+CLT-0260,Alpha Guilavogui,Masculin,57,Particulier,Nzérékoré,Guinée Forestière,Guinée,2021-10-26,Campagne digitale,Actif
+CLT-0261,Oumou Barry,Féminin,68,Grande Entreprise,Siguiri,Haute Guinée,Guinée,2025-06-26,Agence,Actif
+CLT-0262,Boubacar Konaté,Masculin,30,Particulier,Kindia,Basse Guinée,Guinée,2020-10-25,Recommandation,Actif
+CLT-0263,Oumou Kouyaté,Féminin,52,PME,Conakry,Conakry,Guinée,2025-04-17,Agence,Actif
+CLT-0264,Rabi Fofana,Féminin,34,Particulier,Conakry,Conakry,Guinée,2020-01-14,Campagne digitale,Actif
+CLT-0265,Hawa Tolno,Féminin,43,Particulier,Siguiri,Haute Guinée,Guinée,2023-08-26,Partenaire bancaire,Actif
+CLT-0266,Rabi Traoré,Féminin,52,Particulier,Dubréka,Basse Guinée,Guinée,2025-06-06,Courtier,Actif
+CLT-0267,Rabi Condé,Féminin,42,Particulier,Faranah,Haute Guinée,Guinée,2022-03-15,Courtier,Actif
+CLT-0268,Kadiatou Sow,Masculin,33,Professionnel,Nzérékoré,Guinée Forestière,Guinée,2025-05-05,Prospection commerciale,Actif
+CLT-0269,Elhadj Kouyaté,Masculin,66,Particulier,Siguiri,Haute Guinée,Guinée,2024-06-16,Campagne digitale,Actif
+CLT-0270,Lansana Condé,Masculin,38,Professionnel,Mamou,Moyenne Guinée,Guinée,2024-06-04,Campagne digitale,Actif
+CLT-0271,Rabi Millimono,Féminin,56,Particulier,Kissidougou,Guinée Forestière,Guinée,2023-11-17,Campagne digitale,Actif
+CLT-0272,Nene Fofana,Féminin,62,Grande Entreprise,Conakry,Conakry,Guinée,2021-05-23,Prospection commerciale,Actif
+CLT-0273,Aminata Bah,Masculin,58,Grande Entreprise,Nzérékoré,Guinée Forestière,Guinée,2022-03-29,Courtier,Résilié
+CLT-0274,Mariama Diallo,Féminin,28,Particulier,Kankan,Haute Guinée,Guinée,2022-11-28,Partenaire bancaire,Actif
+CLT-0275,Elhadj Guilavogui,Masculin,47,Particulier,Boké,Basse Guinée,Guinée,2023-11-15,Partenaire bancaire,Actif
+CLT-0276,Fatoumata Camara,Masculin,40,Particulier,Dubréka,Basse Guinée,Guinée,2020-08-25,Prospection commerciale,Actif
+CLT-0277,Hawa Tolno,Féminin,35,Particulier,Kindia,Basse Guinée,Guinée,2020-07-18,Campagne digitale,Actif
+CLT-0278,Hawa Barry,Féminin,41,Particulier,Mamou,Moyenne Guinée,Guinée,2020-02-16,Courtier,Actif
+CLT-0279,Sekou Keita,Masculin,33,Professionnel,Kindia,Basse Guinée,Guinée,2022-05-23,Campagne digitale,Actif
+CLT-0280,Aissatou Konaté,Féminin,62,Professionnel,Labé,Moyenne Guinée,Guinée,2024-02-19,Partenaire bancaire,Inactif
+CLT-0281,Rabi Bangoura,Féminin,46,Particulier,Conakry,Conakry,Guinée,2021-07-24,Prospection commerciale,Inactif
+CLT-0282,Kadiatou Camara,Masculin,56,Particulier,Kindia,Basse Guinée,Guinée,2022-07-26,Recommandation,Actif
+CLT-0283,Nene Soumah,Féminin,60,Particulier,Labé,Moyenne Guinée,Guinée,2020-08-21,Courtier,Actif
+CLT-0284,Rabi Konaté,Féminin,65,Professionnel,Kindia,Basse Guinée,Guinée,2023-06-12,Partenaire bancaire,Actif
+CLT-0285,Fodé Camara,Masculin,37,Particulier,Conakry,Conakry,Guinée,2023-11-21,Agence,Actif
+CLT-0286,Rabi Sylla,Féminin,58,Particulier,Conakry,Conakry,Guinée,2023-07-25,Partenaire bancaire,Actif
+CLT-0287,Aissatou Konaté,Masculin,53,Particulier,Conakry,Conakry,Guinée,2024-09-20,Campagne digitale,Actif
+CLT-0288,Fatoumata Cissé,Féminin,30,Particulier,Labé,Moyenne Guinée,Guinée,2023-02-24,Partenaire bancaire,Actif
+CLT-0289,Binta Bangoura,Féminin,67,PME,Kindia,Basse Guinée,Guinée,2020-06-18,Partenaire bancaire,Actif
+CLT-0290,Lansana Bah,Masculin,39,Particulier,Kindia,Basse Guinée,Guinée,2024-05-17,Campagne digitale,Actif
+CLT-0291,Nene Keita,Féminin,29,Professionnel,Kindia,Basse Guinée,Guinée,2023-01-17,Courtier,Actif
+CLT-0292,Elhadj Sow,Masculin,35,Grande Entreprise,Conakry,Conakry,Guinée,2024-08-26,Prospection commerciale,Inactif
+CLT-0293,Fatoumata Tolno,Féminin,38,Particulier,Faranah,Haute Guinée,Guinée,2022-06-18,Recommandation,Inactif
+CLT-0294,Abdoulaye Baldé,Masculin,66,Particulier,Mamou,Moyenne Guinée,Guinée,2023-07-19,Campagne digitale,Actif
+CLT-0295,Abdoulaye Traoré,Masculin,25,Professionnel,Nzérékoré,Guinée Forestière,Guinée,2023-05-07,Partenaire bancaire,Actif
+CLT-0296,Aminata Baldé,Féminin,39,Grande Entreprise,Labé,Moyenne Guinée,Guinée,2025-01-17,Prospection commerciale,Inactif
+CLT-0297,Daouda Bah,Masculin,39,PME,Conakry,Conakry,Guinée,2024-11-08,Agence,Actif
+CLT-0298,Kadiatou Millimono,Féminin,53,Particulier,Boké,Basse Guinée,Guinée,2023-07-09,Campagne digitale,Actif
+CLT-0299,Alpha Millimono,Masculin,54,Professionnel,Mamou,Moyenne Guinée,Guinée,2024-12-01,Courtier,Actif
+CLT-0300,Hawa Baldé,Féminin,22,PME,Mamou,Moyenne Guinée,Guinée,2020-07-09,Prospection commerciale,Résilié
+CLT-0301,Mariama Sow,Féminin,47,Particulier,Labé,Moyenne Guinée,Guinée,2021-03-09,Campagne digitale,Actif
+CLT-0302,Hawa Sow,Féminin,58,Particulier,Siguiri,Haute Guinée,Guinée,2024-06-02,Courtier,Inactif
+CLT-0303,Ibrahima Camara,Masculin,62,PME,Kindia,Basse Guinée,Guinée,2020-09-11,Agence,Actif
+CLT-0304,Daouda Traoré,Masculin,66,Grande Entreprise,Faranah,Haute Guinée,Guinée,2021-09-10,Agence,Inactif
+CLT-0305,Mariama Guilavogui,Féminin,38,Particulier,Boké,Basse Guinée,Guinée,2023-08-21,Agence,Actif
+CLT-0306,Kadiatou Bangoura,Féminin,63,Particulier,Conakry,Conakry,Guinée,2021-03-13,Campagne digitale,Actif
+CLT-0307,Mariama Tolno,Masculin,22,Particulier,Kindia,Basse Guinée,Guinée,2020-09-03,Campagne digitale,Actif
+CLT-0308,Mariama Condé,Féminin,46,Particulier,Faranah,Haute Guinée,Guinée,2020-07-30,Courtier,Actif
+CLT-0309,Aissatou Millimono,Féminin,30,Professionnel,Boké,Basse Guinée,Guinée,2020-05-20,Partenaire bancaire,Actif
+CLT-0310,Elhadj Guilavogui,Masculin,68,Particulier,Mamou,Moyenne Guinée,Guinée,2025-02-26,Campagne digitale,Actif
+CLT-0311,Kadiatou Barry,Féminin,28,Particulier,Conakry,Conakry,Guinée,2024-02-04,Campagne digitale,Actif
+CLT-0312,Hawa Sylla,Féminin,37,Particulier,Conakry,Conakry,Guinée,2023-02-07,Partenaire bancaire,Actif
+CLT-0313,Fatoumata Kouyaté,Féminin,35,Particulier,Kankan,Haute Guinée,Guinée,2024-03-11,Campagne digitale,Actif
+CLT-0314,Sekou Cissé,Masculin,46,Particulier,Kankan,Haute Guinée,Guinée,2023-05-01,Recommandation,Actif
+CLT-0315,Bangaly Soumah,Masculin,30,Particulier,Siguiri,Haute Guinée,Guinée,2022-05-11,Courtier,Actif
+CLT-0316,Fatoumata Barry,Masculin,23,Professionnel,Conakry,Conakry,Guinée,2021-03-17,Recommandation,Résilié
+CLT-0317,Nene Kouyaté,Féminin,62,Professionnel,Faranah,Haute Guinée,Guinée,2022-05-17,Prospection commerciale,Actif
+CLT-0318,Amadou Barry,Masculin,41,Particulier,Kissidougou,Guinée Forestière,Guinée,2025-06-18,Agence,Actif
+CLT-0319,Rabi Barry,Féminin,41,Professionnel,Mamou,Moyenne Guinée,Guinée,2024-09-29,Agence,Actif
+CLT-0320,Daouda Camara,Masculin,51,Professionnel,Conakry,Conakry,Guinée,2023-09-26,Prospection commerciale,Actif
+CLT-0321,Oumar Diallo,Masculin,67,Particulier,Conakry,Conakry,Guinée,2022-10-13,Courtier,Actif
+CLT-0322,Aissatou Guilavogui,Féminin,30,Professionnel,Guéckédou,Guinée Forestière,Guinée,2024-02-10,Recommandation,Inactif
+CLT-0323,Fodé Bangoura,Masculin,39,Particulier,Kindia,Basse Guinée,Guinée,2025-06-19,Partenaire bancaire,Actif
+CLT-0324,Binta Keita,Féminin,45,Particulier,Siguiri,Haute Guinée,Guinée,2020-12-07,Courtier,Actif
+CLT-0325,Kadiatou Camara,Masculin,36,Professionnel,Conakry,Conakry,Guinée,2024-10-24,Recommandation,Actif
+CLT-0326,Hawa Millimono,Féminin,31,Particulier,Dubréka,Basse Guinée,Guinée,2020-03-13,Partenaire bancaire,Inactif
+CLT-0327,Kadiatou Soumah,Féminin,37,Particulier,Mamou,Moyenne Guinée,Guinée,2021-07-09,Recommandation,Actif
+CLT-0328,Mariama Bah,Masculin,33,Particulier,Kankan,Haute Guinée,Guinée,2020-04-04,Campagne digitale,Actif
+CLT-0329,Aminata Kouyaté,Féminin,42,Particulier,Kankan,Haute Guinée,Guinée,2022-01-25,Agence,Actif
+CLT-0330,Rabi Condé,Féminin,51,Particulier,Dubréka,Basse Guinée,Guinée,2024-05-01,Agence,Actif
+CLT-0331,Mohamed Diallo,Masculin,48,Particulier,Nzérékoré,Guinée Forestière,Guinée,2023-07-26,Prospection commerciale,Inactif
+CLT-0332,Fatoumata Millimono,Féminin,68,Particulier,Conakry,Conakry,Guinée,2021-05-02,Campagne digitale,Actif
+CLT-0333,Mohamed Doumbouya,Masculin,27,Particulier,Conakry,Conakry,Guinée,2024-09-27,Partenaire bancaire,Actif
+CLT-0334,Binta Barry,Féminin,59,Particulier,Conakry,Conakry,Guinée,2024-08-06,Campagne digitale,Actif
+CLT-0335,Daouda Sylla,Masculin,37,Particulier,Siguiri,Haute Guinée,Guinée,2025-03-11,Campagne digitale,Actif
+CLT-0336,Hawa Tolno,Féminin,39,Particulier,Kissidougou,Guinée Forestière,Guinée,2020-10-05,Partenaire bancaire,Actif
+CLT-0337,Thierno Tolno,Masculin,51,Particulier,Conakry,Conakry,Guinée,2022-01-03,Agence,Actif
+CLT-0338,Aminata Camara,Féminin,27,Particulier,Boké,Basse Guinée,Guinée,2024-08-19,Prospection commerciale,Actif
+CLT-0339,Abdoulaye Soumah,Masculin,31,Particulier,Conakry,Conakry,Guinée,2021-12-29,Campagne digitale,Actif
+CLT-0340,Aminata Konaté,Féminin,23,Grande Entreprise,Faranah,Haute Guinée,Guinée,2023-02-12,Prospection commerciale,Actif
+CLT-0341,Elhadj Camara,Masculin,30,Particulier,Conakry,Conakry,Guinée,2024-05-18,Agence,Actif
+CLT-0342,Hawa Barry,Féminin,59,Professionnel,Guéckédou,Guinée Forestière,Guinée,2020-06-02,Recommandation,Résilié
+CLT-0343,Elhadj Sylla,Masculin,27,Grande Entreprise,Mamou,Moyenne Guinée,Guinée,2021-11-10,Recommandation,Actif
+CLT-0344,Fatoumata Konaté,Féminin,58,Particulier,Mamou,Moyenne Guinée,Guinée,2022-10-13,Recommandation,Actif
+CLT-0345,Aissatou Guilavogui,Féminin,35,Grande Entreprise,Conakry,Conakry,Guinée,2022-07-02,Agence,Actif
+CLT-0346,Lansana Cissé,Masculin,48,PME,Kindia,Basse Guinée,Guinée,2020-06-28,Courtier,Actif
+CLT-0347,Kadiatou Keita,Féminin,37,Professionnel,Faranah,Haute Guinée,Guinée,2024-06-15,Recommandation,Résilié
+CLT-0348,Binta Sow,Féminin,53,Particulier,Nzérékoré,Guinée Forestière,Guinée,2021-10-20,Campagne digitale,Actif
+CLT-0349,Fodé Fofana,Masculin,36,Particulier,Faranah,Haute Guinée,Guinée,2021-07-29,Recommandation,Inactif
+CLT-0350,Nene Guilavogui,Féminin,59,Grande Entreprise,Kissidougou,Guinée Forestière,Guinée,2020-07-24,Agence,Actif
+CLT-0351,Nene Bah,Féminin,36,Professionnel,Dubréka,Basse Guinée,Guinée,2022-03-06,Courtier,Résilié
+CLT-0352,Thierno Condé,Masculin,59,Particulier,Mamou,Moyenne Guinée,Guinée,2022-01-04,Partenaire bancaire,Actif
+CLT-0353,Rabi Baldé,Féminin,31,Professionnel,Conakry,Conakry,Guinée,2024-07-17,Campagne digitale,Actif
+CLT-0354,Fatoumata Bah,Masculin,27,Particulier,Nzérékoré,Guinée Forestière,Guinée,2020-02-10,Partenaire bancaire,Actif
+CLT-0355,Rabi Traoré,Féminin,30,Particulier,Conakry,Conakry,Guinée,2024-07-01,Courtier,Actif
+CLT-0356,Kadiatou Sylla,Masculin,29,PME,Faranah,Haute Guinée,Guinée,2025-05-21,Recommandation,Actif
+CLT-0357,Rabi Camara,Féminin,43,Particulier,Conakry,Conakry,Guinée,2020-11-18,Prospection commerciale,Résilié
+CLT-0358,Hawa Konaté,Féminin,67,Grande Entreprise,Nzérékoré,Guinée Forestière,Guinée,2025-03-17,Partenaire bancaire,Inactif
+CLT-0359,Kadiatou Konaté,Masculin,46,Particulier,Boké,Basse Guinée,Guinée,2020-09-17,Agence,Actif
+CLT-0360,Rabi Bah,Féminin,33,Professionnel,Kissidougou,Guinée Forestière,Guinée,2025-06-04,Partenaire bancaire,Actif
+CLT-0361,Fatoumata Sylla,Masculin,43,Professionnel,Conakry,Conakry,Guinée,2021-10-16,Agence,Actif
+CLT-0362,Fodé Tolno,Masculin,22,Particulier,Conakry,Conakry,Guinée,2020-05-18,Courtier,Actif
+CLT-0363,Mamadou Bah,Masculin,46,Particulier,Labé,Moyenne Guinée,Guinée,2020-12-06,Campagne digitale,Actif
+CLT-0364,Hawa Sow,Féminin,46,Particulier,Kankan,Haute Guinée,Guinée,2024-11-04,Partenaire bancaire,Actif
+CLT-0365,Thierno Tolno,Masculin,26,PME,Conakry,Conakry,Guinée,2020-02-11,Courtier,Actif
+CLT-0366,Alpha Soumah,Masculin,32,PME,Conakry,Conakry,Guinée,2020-06-02,Partenaire bancaire,Résilié
+CLT-0367,Fodé Fofana,Masculin,61,PME,Nzérékoré,Guinée Forestière,Guinée,2022-06-02,Prospection commerciale,Actif
+CLT-0368,Aissatou Bah,Féminin,28,Particulier,Dubréka,Basse Guinée,Guinée,2022-04-18,Prospection commerciale,Actif
+CLT-0369,Aminata Kouyaté,Féminin,37,Particulier,Labé,Moyenne Guinée,Guinée,2023-01-30,Campagne digitale,Actif
+CLT-0370,Fatoumata Bangoura,Féminin,27,Particulier,Boké,Basse Guinée,Guinée,2023-05-14,Campagne digitale,Actif
+CLT-0371,Abdoulaye Konaté,Masculin,62,Particulier,Conakry,Conakry,Guinée,2024-09-24,Recommandation,Actif
+CLT-0372,Binta Cissé,Féminin,64,Particulier,Boké,Basse Guinée,Guinée,2022-03-04,Agence,Actif
+CLT-0373,Hawa Konaté,Féminin,50,Particulier,Labé,Moyenne Guinée,Guinée,2021-06-23,Agence,Inactif
+CLT-0374,Mohamed Camara,Masculin,27,Professionnel,Faranah,Haute Guinée,Guinée,2022-04-27,Partenaire bancaire,Actif
+CLT-0375,Boubacar Keita,Masculin,48,Grande Entreprise,Nzérékoré,Guinée Forestière,Guinée,2025-04-01,Campagne digitale,Actif
+CLT-0376,Fatoumata Kouyaté,Masculin,27,Particulier,Siguiri,Haute Guinée,Guinée,2020-03-12,Partenaire bancaire,Actif
+CLT-0377,Oumar Tolno,Masculin,33,Grande Entreprise,Conakry,Conakry,Guinée,2021-03-09,Agence,Actif
+CLT-0378,Mariama Bangoura,Féminin,34,Grande Entreprise,Kankan,Haute Guinée,Guinée,2024-09-04,Partenaire bancaire,Actif
+CLT-0379,Alpha Millimono,Masculin,57,Particulier,Kindia,Basse Guinée,Guinée,2021-07-19,Partenaire bancaire,Actif
+CLT-0380,Aminata Baldé,Masculin,55,PME,Conakry,Conakry,Guinée,2020-11-02,Agence,Actif
+CLT-0381,Oumar Baldé,Masculin,28,PME,Faranah,Haute Guinée,Guinée,2024-12-07,Courtier,Inactif
+CLT-0382,Oumou Cissé,Féminin,58,Professionnel,Conakry,Conakry,Guinée,2021-07-18,Campagne digitale,Actif
+CLT-0383,Fatoumata Millimono,Féminin,43,Professionnel,Conakry,Conakry,Guinée,2022-08-31,Courtier,Inactif
+CLT-0384,Fodé Kouyaté,Masculin,41,Particulier,Kankan,Haute Guinée,Guinée,2023-11-26,Prospection commerciale,Actif
+CLT-0385,Mohamed Kouyaté,Masculin,50,PME,Conakry,Conakry,Guinée,2024-02-01,Campagne digitale,Actif
+CLT-0386,Abdoulaye Tolno,Masculin,35,Grande Entreprise,Kindia,Basse Guinée,Guinée,2022-09-19,Partenaire bancaire,Inactif
+CLT-0387,Mariama Konaté,Masculin,26,Particulier,Kankan,Haute Guinée,Guinée,2020-10-04,Partenaire bancaire,Inactif
+CLT-0388,Thierno Traoré,Masculin,34,PME,Conakry,Conakry,Guinée,2022-07-23,Recommandation,Résilié
+CLT-0389,Amadou Guilavogui,Masculin,51,Particulier,Boké,Basse Guinée,Guinée,2020-09-10,Prospection commerciale,Actif
+CLT-0390,Binta Fofana,Féminin,50,Particulier,Guéckédou,Guinée Forestière,Guinée,2023-04-16,Partenaire bancaire,Actif
+CLT-0391,Amadou Barry,Masculin,40,Particulier,Conakry,Conakry,Guinée,2024-10-14,Partenaire bancaire,Inactif
+CLT-0392,Sekou Condé,Masculin,65,Particulier,Boké,Basse Guinée,Guinée,2022-11-17,Recommandation,Inactif
+CLT-0393,Fatoumata Sylla,Masculin,63,Particulier,Faranah,Haute Guinée,Guinée,2021-04-03,Courtier,Actif
+CLT-0394,Aminata Bangoura,Féminin,46,PME,Kindia,Basse Guinée,Guinée,2021-03-22,Campagne digitale,Actif
+CLT-0395,Rabi Camara,Féminin,22,Particulier,Boké,Basse Guinée,Guinée,2024-09-23,Courtier,Actif
+CLT-0396,Aminata Camara,Féminin,52,Particulier,Dubréka,Basse Guinée,Guinée,2023-08-04,Courtier,Inactif
+CLT-0397,Aminata Traoré,Féminin,31,Particulier,Conakry,Conakry,Guinée,2020-04-26,Partenaire bancaire,Actif
+CLT-0398,Aissatou Diallo,Féminin,63,Particulier,Kindia,Basse Guinée,Guinée,2025-01-31,Campagne digitale,Actif
+CLT-0399,Kadiatou Baldé,Masculin,34,Particulier,Mamou,Moyenne Guinée,Guinée,2023-11-06,Partenaire bancaire,Actif
+CLT-0400,Hawa Keita,Féminin,41,PME,Mamou,Moyenne Guinée,Guinée,2024-11-30,Partenaire bancaire,Actif
+CLT-0401,Fatoumata Sylla,Masculin,38,Professionnel,Nzérékoré,Guinée Forestière,Guinée,2025-02-12,Agence,Résilié
+CLT-0402,Mariama Condé,Féminin,44,Particulier,Guéckédou,Guinée Forestière,Guinée,2022-05-11,Courtier,Actif
+CLT-0403,Binta Camara,Féminin,52,Particulier,Boké,Basse Guinée,Guinée,2023-04-03,Partenaire bancaire,Actif
+CLT-0404,Mariama Camara,Masculin,65,Particulier,Kindia,Basse Guinée,Guinée,2020-04-20,Agence,Actif
+CLT-0405,Fodé Bangoura,Masculin,58,PME,Dubréka,Basse Guinée,Guinée,2020-10-20,Courtier,Inactif
+CLT-0406,Alpha Cissé,Masculin,43,Professionnel,Conakry,Conakry,Guinée,2023-07-23,Recommandation,Actif
+CLT-0407,Kadiatou Konaté,Féminin,58,PME,Kindia,Basse Guinée,Guinée,2024-04-12,Recommandation,Actif
+CLT-0408,Oumou Millimono,Féminin,49,Grande Entreprise,Conakry,Conakry,Guinée,2020-03-18,Partenaire bancaire,Actif
+CLT-0409,Fatoumata Soumah,Féminin,55,Particulier,Boké,Basse Guinée,Guinée,2023-07-07,Prospection commerciale,Actif
+CLT-0410,Aminata Sylla,Féminin,28,Particulier,Nzérékoré,Guinée Forestière,Guinée,2020-12-08,Recommandation,Inactif
+CLT-0411,Aminata Tolno,Féminin,68,Particulier,Kankan,Haute Guinée,Guinée,2022-06-07,Prospection commerciale,Résilié
+CLT-0412,Binta Guilavogui,Féminin,34,Particulier,Guéckédou,Guinée Forestière,Guinée,2024-07-20,Campagne digitale,Actif
+CLT-0413,Mohamed Traoré,Masculin,68,Particulier,Kankan,Haute Guinée,Guinée,2020-09-09,Courtier,Actif
+CLT-0414,Boubacar Doumbouya,Masculin,56,Professionnel,Nzérékoré,Guinée Forestière,Guinée,2020-04-08,Prospection commerciale,Actif
+CLT-0415,Ibrahima Camara,Masculin,48,Particulier,Conakry,Conakry,Guinée,2021-06-01,Campagne digitale,Actif
+CLT-0416,Mamadou Kouyaté,Masculin,48,Professionnel,Boké,Basse Guinée,Guinée,2021-07-06,Partenaire bancaire,Actif
+CLT-0417,Daouda Camara,Masculin,54,Professionnel,Conakry,Conakry,Guinée,2020-08-21,Recommandation,Actif
+CLT-0418,Amadou Keita,Masculin,34,Particulier,Labé,Moyenne Guinée,Guinée,2020-11-24,Recommandation,Actif
+CLT-0419,Fatoumata Soumah,Masculin,37,Particulier,Boké,Basse Guinée,Guinée,2025-01-31,Recommandation,Inactif
+CLT-0420,Aissatou Barry,Féminin,54,Particulier,Mamou,Moyenne Guinée,Guinée,2025-01-26,Courtier,Actif
+CLT-0421,Aminata Doumbouya,Féminin,51,Particulier,Faranah,Haute Guinée,Guinée,2024-11-25,Recommandation,Inactif
+CLT-0422,Hawa Bangoura,Féminin,29,Particulier,Mamou,Moyenne Guinée,Guinée,2020-04-03,Recommandation,Inactif
+CLT-0423,Fodé Guilavogui,Masculin,50,Grande Entreprise,Conakry,Conakry,Guinée,2024-02-10,Recommandation,Actif
+CLT-0424,Aissatou Camara,Féminin,47,Particulier,Kankan,Haute Guinée,Guinée,2024-09-07,Campagne digitale,Actif
+CLT-0425,Oumou Konaté,Féminin,29,Particulier,Mamou,Moyenne Guinée,Guinée,2025-04-14,Agence,Actif
+CLT-0426,Rabi Tolno,Féminin,33,Professionnel,Faranah,Haute Guinée,Guinée,2023-06-06,Recommandation,Inactif
+CLT-0427,Fatoumata Cissé,Masculin,29,PME,Kindia,Basse Guinée,Guinée,2020-05-09,Courtier,Actif
+CLT-0428,Mariama Baldé,Masculin,68,Professionnel,Dubréka,Basse Guinée,Guinée,2023-10-03,Courtier,Actif
+CLT-0429,Daouda Condé,Masculin,52,Particulier,Boké,Basse Guinée,Guinée,2022-02-27,Agence,Inactif
+CLT-0430,Mamadou Konaté,Masculin,54,PME,Faranah,Haute Guinée,Guinée,2024-11-15,Agence,Actif
+CLT-0431,Hawa Condé,Féminin,43,Grande Entreprise,Conakry,Conakry,Guinée,2021-04-01,Partenaire bancaire,Actif
+CLT-0432,Kadiatou Barry,Féminin,51,Particulier,Nzérékoré,Guinée Forestière,Guinée,2020-06-29,Campagne digitale,Actif
+CLT-0433,Fatoumata Diallo,Masculin,28,Particulier,Conakry,Conakry,Guinée,2023-01-29,Recommandation,Inactif
+CLT-0434,Nene Sow,Féminin,35,Professionnel,Kankan,Haute Guinée,Guinée,2021-11-29,Courtier,Inactif
+CLT-0435,Elhadj Soumah,Masculin,57,PME,Kankan,Haute Guinée,Guinée,2024-01-07,Prospection commerciale,Actif
+CLT-0436,Mariama Camara,Féminin,64,Particulier,Kindia,Basse Guinée,Guinée,2024-08-26,Prospection commerciale,Résilié
+CLT-0437,Nene Keita,Féminin,45,Professionnel,Conakry,Conakry,Guinée,2020-12-02,Campagne digitale,Actif
+CLT-0438,Mariama Doumbouya,Féminin,61,Particulier,Conakry,Conakry,Guinée,2024-10-11,Campagne digitale,Actif
+CLT-0439,Fodé Camara,Masculin,48,Particulier,Boké,Basse Guinée,Guinée,2023-10-08,Partenaire bancaire,Actif
+CLT-0440,Binta Baldé,Féminin,54,Particulier,Kankan,Haute Guinée,Guinée,2022-12-22,Prospection commerciale,Actif
+CLT-0441,Rabi Cissé,Féminin,54,PME,Siguiri,Haute Guinée,Guinée,2023-11-17,Partenaire bancaire,Actif
+CLT-0442,Oumar Millimono,Masculin,64,Professionnel,Guéckédou,Guinée Forestière,Guinée,2022-10-29,Campagne digitale,Actif
+CLT-0443,Amadou Millimono,Masculin,43,Grande Entreprise,Kindia,Basse Guinée,Guinée,2020-09-30,Agence,Actif
+CLT-0444,Nene Soumah,Féminin,67,Professionnel,Nzérékoré,Guinée Forestière,Guinée,2021-03-21,Agence,Actif
+CLT-0445,Hawa Sylla,Féminin,67,Professionnel,Kissidougou,Guinée Forestière,Guinée,2022-10-28,Partenaire bancaire,Actif
+CLT-0446,Mariama Guilavogui,Féminin,57,Particulier,Nzérékoré,Guinée Forestière,Guinée,2023-09-28,Prospection commerciale,Actif
+CLT-0447,Oumou Diallo,Féminin,55,Particulier,Labé,Moyenne Guinée,Guinée,2020-04-18,Prospection commerciale,Actif
+CLT-0448,Aissatou Kouyaté,Féminin,65,Particulier,Siguiri,Haute Guinée,Guinée,2023-11-15,Courtier,Actif
+CLT-0449,Bangaly Tolno,Masculin,28,Professionnel,Boké,Basse Guinée,Guinée,2023-02-24,Agence,Actif
+CLT-0450,Kadiatou Keita,Féminin,66,Particulier,Boké,Basse Guinée,Guinée,2025-03-12,Campagne digitale,Actif
+CLT-0451,Nene Bah,Féminin,22,Professionnel,Conakry,Conakry,Guinée,2024-11-14,Campagne digitale,Inactif
+CLT-0452,Rabi Sow,Féminin,60,Particulier,Mamou,Moyenne Guinée,Guinée,2021-01-31,Courtier,Actif
+CLT-0453,Thierno Konaté,Masculin,54,Particulier,Conakry,Conakry,Guinée,2021-07-25,Partenaire bancaire,Actif
+CLT-0454,Kadiatou Doumbouya,Masculin,22,Particulier,Mamou,Moyenne Guinée,Guinée,2020-11-13,Recommandation,Actif
+CLT-0455,Rabi Bah,Féminin,62,Professionnel,Boké,Basse Guinée,Guinée,2022-10-01,Partenaire bancaire,Actif
+CLT-0456,Fodé Keita,Masculin,36,Grande Entreprise,Labé,Moyenne Guinée,Guinée,2024-05-29,Partenaire bancaire,Actif
+CLT-0457,Mariama Guilavogui,Féminin,36,PME,Nzérékoré,Guinée Forestière,Guinée,2021-11-09,Courtier,Actif
+CLT-0458,Nene Diallo,Féminin,29,Professionnel,Kankan,Haute Guinée,Guinée,2025-01-26,Prospection commerciale,Actif
+CLT-0459,Ibrahima Soumah,Masculin,46,Grande Entreprise,Guéckédou,Guinée Forestière,Guinée,2022-03-01,Courtier,Actif
+CLT-0460,Fatoumata Keita,Féminin,45,Particulier,Kankan,Haute Guinée,Guinée,2022-09-23,Recommandation,Actif
+CLT-0461,Fodé Keita,Masculin,27,Grande Entreprise,Conakry,Conakry,Guinée,2025-05-12,Partenaire bancaire,Actif
+CLT-0462,Abdoulaye Traoré,Masculin,65,Particulier,Conakry,Conakry,Guinée,2023-01-06,Prospection commerciale,Inactif
+CLT-0463,Mariama Sylla,Féminin,23,Particulier,Kindia,Basse Guinée,Guinée,2020-06-28,Recommandation,Actif
+CLT-0464,Nene Barry,Féminin,58,PME,Siguiri,Haute Guinée,Guinée,2022-04-14,Campagne digitale,Actif
+CLT-0465,Oumou Soumah,Féminin,23,Particulier,Conakry,Conakry,Guinée,2020-01-13,Prospection commerciale,Actif
+CLT-0466,Kadiatou Bah,Masculin,66,PME,Conakry,Conakry,Guinée,2022-10-26,Recommandation,Actif
+CLT-0467,Rabi Barry,Féminin,40,PME,Kindia,Basse Guinée,Guinée,2022-03-20,Prospection commerciale,Actif
+CLT-0468,Aissatou Condé,Masculin,30,Professionnel,Faranah,Haute Guinée,Guinée,2024-10-05,Partenaire bancaire,Actif
+CLT-0469,Lansana Guilavogui,Masculin,22,Professionnel,Nzérékoré,Guinée Forestière,Guinée,2020-09-09,Recommandation,Actif
+CLT-0470,Nene Sow,Féminin,27,Particulier,Mamou,Moyenne Guinée,Guinée,2025-01-24,Prospection commerciale,Actif
+CLT-0471,Nene Sylla,Féminin,32,Particulier,Boké,Basse Guinée,Guinée,2021-06-01,Agence,Actif
+CLT-0472,Aissatou Tolno,Masculin,63,Particulier,Kindia,Basse Guinée,Guinée,2020-05-17,Courtier,Actif
+CLT-0473,Hawa Guilavogui,Féminin,30,Professionnel,Conakry,Conakry,Guinée,2021-08-06,Partenaire bancaire,Actif
+CLT-0474,Fodé Cissé,Masculin,50,Particulier,Boké,Basse Guinée,Guinée,2023-11-21,Partenaire bancaire,Actif
+CLT-0475,Hawa Bangoura,Féminin,32,Particulier,Conakry,Conakry,Guinée,2021-03-29,Prospection commerciale,Actif
+CLT-0476,Aminata Guilavogui,Féminin,30,Professionnel,Kindia,Basse Guinée,Guinée,2022-09-09,Campagne digitale,Actif
+CLT-0477,Binta Sow,Féminin,28,Particulier,Nzérékoré,Guinée Forestière,Guinée,2024-09-19,Courtier,Inactif
+CLT-0478,Aissatou Traoré,Masculin,38,Professionnel,Boké,Basse Guinée,Guinée,2024-01-29,Recommandation,Inactif
+CLT-0479,Kadiatou Baldé,Masculin,47,PME,Conakry,Conakry,Guinée,2020-03-16,Partenaire bancaire,Actif
+CLT-0480,Aissatou Guilavogui,Féminin,47,Particulier,Faranah,Haute Guinée,Guinée,2024-02-10,Courtier,Actif
+CLT-0481,Boubacar Guilavogui,Masculin,54,Particulier,Conakry,Conakry,Guinée,2025-05-28,Partenaire bancaire,Actif
+CLT-0482,Elhadj Konaté,Masculin,33,Professionnel,Nzérékoré,Guinée Forestière,Guinée,2024-11-21,Agence,Actif
+CLT-0483,Hawa Bah,Féminin,36,PME,Conakry,Conakry,Guinée,2021-06-25,Courtier,Actif
+CLT-0484,Mariama Guilavogui,Masculin,46,Particulier,Kankan,Haute Guinée,Guinée,2020-04-05,Recommandation,Résilié
+CLT-0485,Mariama Keita,Féminin,62,PME,Mamou,Moyenne Guinée,Guinée,2021-06-23,Partenaire bancaire,Actif
+CLT-0486,Boubacar Millimono,Masculin,45,Professionnel,Guéckédou,Guinée Forestière,Guinée,2020-06-08,Partenaire bancaire,Actif
+CLT-0487,Mariama Millimono,Masculin,44,PME,Conakry,Conakry,Guinée,2024-06-11,Campagne digitale,Inactif
+CLT-0488,Mariama Sylla,Masculin,50,Particulier,Conakry,Conakry,Guinée,2023-08-10,Courtier,Actif
+CLT-0489,Thierno Guilavogui,Masculin,60,Professionnel,Conakry,Conakry,Guinée,2021-04-16,Campagne digitale,Inactif
+CLT-0490,Fatoumata Cissé,Masculin,52,Particulier,Conakry,Conakry,Guinée,2024-09-02,Campagne digitale,Actif
+CLT-0491,Mohamed Baldé,Masculin,59,Particulier,Boké,Basse Guinée,Guinée,2020-03-21,Partenaire bancaire,Actif
+CLT-0492,Amadou Konaté,Masculin,55,Grande Entreprise,Kankan,Haute Guinée,Guinée,2023-02-28,Prospection commerciale,Actif
+CLT-0493,Mariama Traoré,Féminin,50,Professionnel,Kankan,Haute Guinée,Guinée,2022-09-13,Agence,Actif
+CLT-0494,Rabi Sylla,Féminin,59,PME,Conakry,Conakry,Guinée,2023-09-12,Partenaire bancaire,Actif
+CLT-0495,Binta Fofana,Féminin,59,Particulier,Labé,Moyenne Guinée,Guinée,2020-09-27,Recommandation,Actif
+CLT-0496,Aissatou Fofana,Féminin,28,Particulier,Guéckédou,Guinée Forestière,Guinée,2023-05-13,Recommandation,Inactif
+CLT-0497,Alpha Cissé,Masculin,64,Particulier,Nzérékoré,Guinée Forestière,Guinée,2024-08-21,Recommandation,Inactif
+CLT-0498,Nene Bangoura,Féminin,45,PME,Nzérékoré,Guinée Forestière,Guinée,2022-05-28,Agence,Résilié
+CLT-0499,Oumou Guilavogui,Féminin,59,PME,Siguiri,Haute Guinée,Guinée,2024-09-10,Prospection commerciale,Actif
+CLT-0500,Aissatou Doumbouya,Féminin,52,PME,Siguiri,Haute Guinée,Guinée,2020-06-20,Courtier,Actif
+CLT-0501,Aminata Traoré,Féminin,22,Professionnel,Faranah,Haute Guinée,Guinée,2023-03-29,Partenaire bancaire,Actif
+CLT-0502,Boubacar Traoré,Masculin,66,PME,Kindia,Basse Guinée,Guinée,2020-08-06,Agence,Actif
+CLT-0503,Aminata Sow,Féminin,49,Professionnel,Boké,Basse Guinée,Guinée,2023-10-25,Campagne digitale,Inactif
+CLT-0504,Nene Sow,Féminin,52,Particulier,Nzérékoré,Guinée Forestière,Guinée,2022-09-17,Courtier,Résilié
+CLT-0505,Oumou Sylla,Féminin,64,Particulier,Conakry,Conakry,Guinée,2024-05-22,Prospection commerciale,Résilié
+CLT-0506,Abdoulaye Keita,Masculin,47,PME,Mamou,Moyenne Guinée,Guinée,2023-06-11,Prospection commerciale,Actif
+CLT-0507,Thierno Millimono,Masculin,62,Particulier,Conakry,Conakry,Guinée,2020-10-24,Campagne digitale,Résilié
+CLT-0508,Mariama Barry,Féminin,38,Particulier,Conakry,Conakry,Guinée,2020-03-18,Prospection commerciale,Actif
+CLT-0509,Rabi Keita,Féminin,40,Professionnel,Nzérékoré,Guinée Forestière,Guinée,2025-04-20,Agence,Actif
+CLT-0510,Fatoumata Traoré,Féminin,64,Grande Entreprise,Labé,Moyenne Guinée,Guinée,2021-02-02,Recommandation,Inactif
+CLT-0511,Aminata Konaté,Masculin,65,Particulier,Conakry,Conakry,Guinée,2020-01-01,Agence,Actif
+CLT-0512,Oumou Guilavogui,Féminin,64,Particulier,Nzérékoré,Guinée Forestière,Guinée,2022-11-26,Recommandation,Actif
+CLT-0513,Alpha Sow,Masculin,40,Professionnel,Nzérékoré,Guinée Forestière,Guinée,2023-04-08,Courtier,Actif
+CLT-0514,Kadiatou Fofana,Féminin,34,Particulier,Labé,Moyenne Guinée,Guinée,2020-01-10,Courtier,Actif
+CLT-0515,Aissatou Barry,Masculin,54,Particulier,Kissidougou,Guinée Forestière,Guinée,2024-07-02,Partenaire bancaire,Résilié
+CLT-0516,Binta Millimono,Féminin,58,Particulier,Conakry,Conakry,Guinée,2021-11-26,Campagne digitale,Actif
+CLT-0517,Fatoumata Camara,Masculin,38,Particulier,Boké,Basse Guinée,Guinée,2021-03-27,Prospection commerciale,Actif
+CLT-0518,Oumou Guilavogui,Féminin,55,Particulier,Mamou,Moyenne Guinée,Guinée,2021-06-23,Agence,Actif
+CLT-0519,Hawa Barry,Féminin,57,Grande Entreprise,Kindia,Basse Guinée,Guinée,2021-12-25,Agence,Inactif
+CLT-0520,Aissatou Traoré,Féminin,53,Professionnel,Conakry,Conakry,Guinée,2021-05-10,Courtier,Actif
+CLT-0521,Sekou Fofana,Masculin,44,Particulier,Conakry,Conakry,Guinée,2025-02-27,Recommandation,Actif
+CLT-0522,Rabi Diallo,Féminin,56,Grande Entreprise,Mamou,Moyenne Guinée,Guinée,2022-01-30,Partenaire bancaire,Actif
+CLT-0523,Binta Konaté,Féminin,54,Particulier,Conakry,Conakry,Guinée,2023-03-27,Agence,Actif
+CLT-0524,Binta Sow,Féminin,24,Particulier,Labé,Moyenne Guinée,Guinée,2023-11-06,Agence,Actif
+CLT-0525,Mariama Tolno,Masculin,42,Professionnel,Conakry,Conakry,Guinée,2021-03-07,Campagne digitale,Actif
+CLT-0526,Hawa Fofana,Féminin,38,Particulier,Kindia,Basse Guinée,Guinée,2021-07-05,Campagne digitale,Résilié
+CLT-0527,Hawa Konaté,Féminin,53,Particulier,Labé,Moyenne Guinée,Guinée,2024-03-20,Courtier,Actif
+CLT-0528,Aminata Tolno,Féminin,33,Professionnel,Dubréka,Basse Guinée,Guinée,2023-11-05,Agence,Inactif
+CLT-0529,Kadiatou Sow,Féminin,49,PME,Conakry,Conakry,Guinée,2024-06-26,Prospection commerciale,Actif
+CLT-0530,Thierno Bangoura,Masculin,53,Particulier,Guéckédou,Guinée Forestière,Guinée,2023-07-15,Partenaire bancaire,Actif
+CLT-0531,Binta Kouyaté,Féminin,38,Professionnel,Nzérékoré,Guinée Forestière,Guinée,2022-03-26,Recommandation,Actif
+CLT-0532,Abdoulaye Doumbouya,Masculin,52,PME,Conakry,Conakry,Guinée,2024-03-04,Courtier,Actif
+CLT-0533,Nene Sow,Féminin,38,Particulier,Labé,Moyenne Guinée,Guinée,2021-12-20,Prospection commerciale,Résilié
+CLT-0534,Kadiatou Baldé,Masculin,63,Professionnel,Conakry,Conakry,Guinée,2024-05-17,Courtier,Actif
+CLT-0535,Binta Barry,Féminin,46,Professionnel,Kankan,Haute Guinée,Guinée,2025-05-13,Agence,Inactif
+CLT-0536,Oumou Fofana,Féminin,58,Particulier,Guéckédou,Guinée Forestière,Guinée,2020-06-11,Agence,Actif
+CLT-0537,Hawa Kouyaté,Féminin,67,Particulier,Boké,Basse Guinée,Guinée,2021-07-09,Campagne digitale,Inactif
+CLT-0538,Rabi Keita,Féminin,50,Particulier,Conakry,Conakry,Guinée,2020-02-17,Agence,Actif
+CLT-0539,Mariama Traoré,Féminin,32,Particulier,Conakry,Conakry,Guinée,2025-04-02,Campagne digitale,Actif
+CLT-0540,Boubacar Keita,Masculin,27,Particulier,Boké,Basse Guinée,Guinée,2020-06-21,Prospection commerciale,Résilié
+CLT-0541,Aminata Condé,Féminin,37,Professionnel,Kankan,Haute Guinée,Guinée,2020-09-15,Agence,Actif
+CLT-0542,Mamadou Bah,Masculin,64,Particulier,Guéckédou,Guinée Forestière,Guinée,2024-11-04,Campagne digitale,Actif
+CLT-0543,Nene Tolno,Féminin,30,Grande Entreprise,Nzérékoré,Guinée Forestière,Guinée,2020-12-28,Partenaire bancaire,Actif
+CLT-0544,Nene Sow,Féminin,41,Grande Entreprise,Kindia,Basse Guinée,Guinée,2021-04-10,Recommandation,Actif
+CLT-0545,Oumou Doumbouya,Féminin,31,Particulier,Conakry,Conakry,Guinée,2024-07-27,Agence,Actif
+CLT-0546,Nene Diallo,Féminin,66,Grande Entreprise,Guéckédou,Guinée Forestière,Guinée,2022-09-04,Courtier,Actif
+CLT-0547,Aminata Fofana,Féminin,36,PME,Labé,Moyenne Guinée,Guinée,2021-01-21,Campagne digitale,Inactif
+CLT-0548,Oumou Condé,Féminin,32,Professionnel,Boké,Basse Guinée,Guinée,2024-08-23,Campagne digitale,Actif
+CLT-0549,Daouda Condé,Masculin,55,PME,Siguiri,Haute Guinée,Guinée,2024-07-11,Prospection commerciale,Actif
+CLT-0550,Nene Doumbouya,Féminin,48,Particulier,Conakry,Conakry,Guinée,2020-10-06,Courtier,Actif
+CLT-0551,Rabi Tolno,Féminin,39,Professionnel,Kankan,Haute Guinée,Guinée,2021-10-18,Recommandation,Actif
+CLT-0552,Thierno Camara,Masculin,40,Particulier,Mamou,Moyenne Guinée,Guinée,2024-01-29,Recommandation,Actif
+CLT-0553,Mamadou Cissé,Masculin,35,Particulier,Kindia,Basse Guinée,Guinée,2024-06-25,Campagne digitale,Résilié
+CLT-0554,Fatoumata Soumah,Féminin,27,PME,Guéckédou,Guinée Forestière,Guinée,2020-04-24,Courtier,Inactif
+CLT-0555,Aissatou Cissé,Masculin,33,Particulier,Siguiri,Haute Guinée,Guinée,2024-07-31,Campagne digitale,Inactif
+CLT-0556,Sekou Millimono,Masculin,50,Particulier,Dubréka,Basse Guinée,Guinée,2021-02-11,Campagne digitale,Actif
+CLT-0557,Mariama Traoré,Masculin,52,Particulier,Dubréka,Basse Guinée,Guinée,2025-04-01,Courtier,Actif
+CLT-0558,Aissatou Keita,Masculin,29,Particulier,Boké,Basse Guinée,Guinée,2021-02-10,Courtier,Inactif
+CLT-0559,Oumar Condé,Masculin,62,Particulier,Conakry,Conakry,Guinée,2024-06-14,Courtier,Actif
+CLT-0560,Kadiatou Diallo,Féminin,24,Professionnel,Mamou,Moyenne Guinée,Guinée,2023-11-10,Partenaire bancaire,Actif
+CLT-0561,Sekou Konaté,Masculin,53,Particulier,Boké,Basse Guinée,Guinée,2025-03-21,Prospection commerciale,Actif
+CLT-0562,Aissatou Sow,Féminin,28,Particulier,Conakry,Conakry,Guinée,2023-02-17,Prospection commerciale,Inactif
+CLT-0563,Kadiatou Diallo,Féminin,66,Particulier,Mamou,Moyenne Guinée,Guinée,2021-05-28,Recommandation,Actif
+CLT-0564,Nene Kouyaté,Féminin,56,Professionnel,Conakry,Conakry,Guinée,2021-01-17,Partenaire bancaire,Actif
+CLT-0565,Aminata Fofana,Féminin,57,Particulier,Nzérékoré,Guinée Forestière,Guinée,2022-07-09,Courtier,Inactif
+CLT-0566,Binta Diallo,Féminin,62,Particulier,Mamou,Moyenne Guinée,Guinée,2024-12-13,Recommandation,Actif
+CLT-0567,Rabi Condé,Féminin,42,Professionnel,Boké,Basse Guinée,Guinée,2023-01-08,Campagne digitale,Actif
+CLT-0568,Nene Sylla,Féminin,61,Particulier,Labé,Moyenne Guinée,Guinée,2021-10-21,Recommandation,Actif
+CLT-0569,Ibrahima Sylla,Masculin,33,PME,Conakry,Conakry,Guinée,2022-09-21,Agence,Actif
+CLT-0570,Binta Keita,Féminin,61,Professionnel,Kindia,Basse Guinée,Guinée,2022-01-20,Agence,Actif
+CLT-0571,Mamadou Traoré,Masculin,63,Particulier,Guéckédou,Guinée Forestière,Guinée,2020-06-12,Campagne digitale,Inactif
+CLT-0572,Bangaly Sow,Masculin,48,PME,Boké,Basse Guinée,Guinée,2020-04-29,Partenaire bancaire,Actif
+CLT-0573,Alpha Kouyaté,Masculin,26,Grande Entreprise,Kissidougou,Guinée Forestière,Guinée,2020-07-17,Recommandation,Actif
+CLT-0574,Kadiatou Traoré,Féminin,55,Professionnel,Nzérékoré,Guinée Forestière,Guinée,2025-04-24,Agence,Actif
+CLT-0575,Mariama Baldé,Féminin,44,Professionnel,Mamou,Moyenne Guinée,Guinée,2022-05-24,Recommandation,Actif
+CLT-0576,Aissatou Millimono,Masculin,54,Particulier,Conakry,Conakry,Guinée,2023-05-13,Campagne digitale,Résilié
+CLT-0577,Nene Soumah,Féminin,45,Particulier,Boké,Basse Guinée,Guinée,2024-08-18,Prospection commerciale,Actif
+CLT-0578,Kadiatou Sow,Masculin,35,Particulier,Nzérékoré,Guinée Forestière,Guinée,2024-03-04,Courtier,Actif
+CLT-0579,Binta Millimono,Féminin,22,Professionnel,Dubréka,Basse Guinée,Guinée,2023-05-05,Recommandation,Actif
+CLT-0580,Fatoumata Kouyaté,Féminin,36,Particulier,Kindia,Basse Guinée,Guinée,2024-04-29,Prospection commerciale,Inactif
+CLT-0581,Oumar Bah,Masculin,51,Particulier,Conakry,Conakry,Guinée,2022-01-21,Partenaire bancaire,Actif
+CLT-0582,Aminata Barry,Féminin,58,Particulier,Guéckédou,Guinée Forestière,Guinée,2024-02-12,Recommandation,Actif
+CLT-0583,Aissatou Cissé,Féminin,66,Professionnel,Faranah,Haute Guinée,Guinée,2020-07-14,Partenaire bancaire,Actif
+CLT-0584,Kadiatou Millimono,Masculin,27,PME,Siguiri,Haute Guinée,Guinée,2021-11-15,Courtier,Inactif
+CLT-0585,Oumou Camara,Féminin,36,Professionnel,Siguiri,Haute Guinée,Guinée,2025-03-16,Recommandation,Actif
+CLT-0586,Fatoumata Kouyaté,Féminin,55,Particulier,Nzérékoré,Guinée Forestière,Guinée,2020-11-02,Courtier,Actif
+CLT-0587,Mohamed Bah,Masculin,65,Professionnel,Labé,Moyenne Guinée,Guinée,2022-07-01,Partenaire bancaire,Actif
+CLT-0588,Sekou Bangoura,Masculin,40,PME,Conakry,Conakry,Guinée,2021-11-19,Recommandation,Actif
+CLT-0589,Aissatou Millimono,Masculin,38,Particulier,Kankan,Haute Guinée,Guinée,2024-05-03,Prospection commerciale,Actif
+CLT-0590,Fatoumata Sow,Masculin,34,Particulier,Boké,Basse Guinée,Guinée,2021-02-05,Partenaire bancaire,Actif
+CLT-0591,Sekou Barry,Masculin,39,PME,Conakry,Conakry,Guinée,2025-03-07,Partenaire bancaire,Actif
+CLT-0592,Oumou Guilavogui,Féminin,44,Particulier,Kindia,Basse Guinée,Guinée,2023-09-04,Recommandation,Inactif
+CLT-0593,Bangaly Fofana,Masculin,50,Professionnel,Kankan,Haute Guinée,Guinée,2025-03-07,Agence,Actif
+CLT-0594,Aissatou Barry,Féminin,29,Professionnel,Conakry,Conakry,Guinée,2023-06-25,Agence,Inactif
+CLT-0595,Fatoumata Soumah,Féminin,66,PME,Conakry,Conakry,Guinée,2022-08-22,Recommandation,Actif
+CLT-0596,Abdoulaye Sow,Masculin,55,PME,Labé,Moyenne Guinée,Guinée,2023-06-29,Prospection commerciale,Résilié
+CLT-0597,Boubacar Baldé,Masculin,64,Particulier,Kindia,Basse Guinée,Guinée,2020-05-03,Courtier,Actif
+CLT-0598,Fatoumata Tolno,Féminin,63,Grande Entreprise,Conakry,Conakry,Guinée,2023-09-14,Courtier,Actif
+CLT-0599,Mariama Diallo,Féminin,40,PME,Kankan,Haute Guinée,Guinée,2021-04-18,Campagne digitale,Actif
+CLT-0600,Fodé Cissé,Masculin,60,Particulier,Conakry,Conakry,Guinée,2022-10-22,Campagne digitale,Actif
+CLT-0601,Ibrahima Condé,Masculin,55,Particulier,Kankan,Haute Guinée,Guinée,2024-03-04,Agence,Actif
+CLT-0602,Hawa Kouyaté,Féminin,37,Grande Entreprise,Kissidougou,Guinée Forestière,Guinée,2021-07-18,Recommandation,Actif
+CLT-0603,Fatoumata Sow,Féminin,39,Particulier,Kindia,Basse Guinée,Guinée,2022-03-15,Prospection commerciale,Actif
+CLT-0604,Nene Fofana,Féminin,62,Professionnel,Labé,Moyenne Guinée,Guinée,2023-03-19,Agence,Actif
+CLT-0605,Rabi Soumah,Féminin,50,Particulier,Conakry,Conakry,Guinée,2020-10-10,Partenaire bancaire,Actif
+CLT-0606,Mohamed Kouyaté,Masculin,66,Professionnel,Kankan,Haute Guinée,Guinée,2020-10-03,Campagne digitale,Résilié
+CLT-0607,Kadiatou Konaté,Masculin,42,Particulier,Nzérékoré,Guinée Forestière,Guinée,2024-01-13,Recommandation,Actif
+CLT-0608,Mamadou Soumah,Masculin,48,Grande Entreprise,Conakry,Conakry,Guinée,2024-03-07,Prospection commerciale,Résilié
+CLT-0609,Aissatou Traoré,Féminin,28,Particulier,Conakry,Conakry,Guinée,2023-06-07,Partenaire bancaire,Actif
+CLT-0610,Aminata Condé,Masculin,36,Professionnel,Labé,Moyenne Guinée,Guinée,2023-11-10,Campagne digitale,Actif
+CLT-0611,Hawa Konaté,Féminin,46,Particulier,Conakry,Conakry,Guinée,2021-01-30,Agence,Actif
+CLT-0612,Amadou Bangoura,Masculin,36,Professionnel,Dubréka,Basse Guinée,Guinée,2024-03-31,Agence,Actif
+CLT-0613,Rabi Cissé,Féminin,66,Particulier,Kankan,Haute Guinée,Guinée,2021-05-20,Campagne digitale,Actif
+CLT-0614,Aminata Millimono,Masculin,68,Particulier,Boké,Basse Guinée,Guinée,2024-02-29,Partenaire bancaire,Actif
+CLT-0615,Mariama Camara,Masculin,50,Particulier,Guéckédou,Guinée Forestière,Guinée,2024-12-02,Agence,Actif
+CLT-0616,Fatoumata Sow,Féminin,46,Particulier,Boké,Basse Guinée,Guinée,2020-04-10,Agence,Actif
+CLT-0617,Aminata Kouyaté,Féminin,51,Particulier,Kindia,Basse Guinée,Guinée,2025-02-25,Recommandation,Actif
+CLT-0618,Elhadj Tolno,Masculin,27,Professionnel,Conakry,Conakry,Guinée,2024-05-13,Partenaire bancaire,Résilié
+CLT-0619,Boubacar Bangoura,Masculin,42,Particulier,Conakry,Conakry,Guinée,2023-04-23,Prospection commerciale,Inactif
+CLT-0620,Mariama Doumbouya,Féminin,42,Professionnel,Guéckédou,Guinée Forestière,Guinée,2024-06-19,Agence,Actif
+CLT-0621,Alpha Camara,Masculin,67,Particulier,Labé,Moyenne Guinée,Guinée,2022-12-08,Prospection commerciale,Actif
+CLT-0622,Boubacar Sow,Masculin,46,Particulier,Conakry,Conakry,Guinée,2021-11-17,Partenaire bancaire,Inactif
+CLT-0623,Thierno Sylla,Masculin,33,PME,Conakry,Conakry,Guinée,2021-09-22,Courtier,Actif
+CLT-0624,Aminata Konaté,Féminin,29,PME,Kissidougou,Guinée Forestière,Guinée,2020-01-08,Partenaire bancaire,Inactif
+CLT-0625,Elhadj Cissé,Masculin,53,Particulier,Conakry,Conakry,Guinée,2024-12-12,Campagne digitale,Actif
+CLT-0626,Binta Bangoura,Féminin,50,Particulier,Nzérékoré,Guinée Forestière,Guinée,2021-05-16,Partenaire bancaire,Actif
+CLT-0627,Ibrahima Konaté,Masculin,31,Particulier,Kindia,Basse Guinée,Guinée,2020-10-24,Recommandation,Actif
+CLT-0628,Hawa Barry,Féminin,25,Particulier,Dubréka,Basse Guinée,Guinée,2020-11-26,Prospection commerciale,Actif
+CLT-0629,Elhadj Baldé,Masculin,45,Grande Entreprise,Conakry,Conakry,Guinée,2021-09-04,Courtier,Actif
+CLT-0630,Mariama Bangoura,Féminin,57,Particulier,Kankan,Haute Guinée,Guinée,2020-09-06,Prospection commerciale,Inactif
+CLT-0631,Nene Bangoura,Féminin,55,Particulier,Conakry,Conakry,Guinée,2020-04-29,Recommandation,Actif
+CLT-0632,Fatoumata Fofana,Masculin,67,Particulier,Nzérékoré,Guinée Forestière,Guinée,2021-10-10,Courtier,Actif
+CLT-0633,Aissatou Fofana,Féminin,58,Particulier,Mamou,Moyenne Guinée,Guinée,2022-10-16,Campagne digitale,Inactif
+CLT-0634,Lansana Traoré,Masculin,22,Particulier,Kankan,Haute Guinée,Guinée,2024-06-19,Recommandation,Actif
+CLT-0635,Aminata Bangoura,Masculin,48,Particulier,Kindia,Basse Guinée,Guinée,2024-07-08,Prospection commerciale,Actif
+CLT-0636,Lansana Doumbouya,Masculin,26,Particulier,Kankan,Haute Guinée,Guinée,2021-10-25,Recommandation,Actif
+CLT-0637,Hawa Millimono,Féminin,68,Professionnel,Dubréka,Basse Guinée,Guinée,2024-08-31,Agence,Actif
+CLT-0638,Binta Cissé,Féminin,24,Professionnel,Kankan,Haute Guinée,Guinée,2023-07-08,Campagne digitale,Inactif
+CLT-0639,Binta Bangoura,Féminin,25,PME,Conakry,Conakry,Guinée,2024-01-24,Prospection commerciale,Actif
+CLT-0640,Abdoulaye Baldé,Masculin,65,Particulier,Guéckédou,Guinée Forestière,Guinée,2024-06-17,Courtier,Actif
+CLT-0641,Amadou Diallo,Masculin,43,Grande Entreprise,Kankan,Haute Guinée,Guinée,2024-09-21,Agence,Actif
+CLT-0642,Aissatou Fofana,Féminin,29,PME,Boké,Basse Guinée,Guinée,2023-12-15,Courtier,Actif
+CLT-0643,Oumou Barry,Féminin,53,PME,Conakry,Conakry,Guinée,2024-08-25,Courtier,Actif
+CLT-0644,Aissatou Camara,Féminin,45,PME,Boké,Basse Guinée,Guinée,2025-02-13,Recommandation,Actif
+CLT-0645,Fatoumata Keita,Masculin,31,Particulier,Kissidougou,Guinée Forestière,Guinée,2024-02-09,Partenaire bancaire,Actif
+CLT-0646,Aissatou Camara,Féminin,55,Professionnel,Conakry,Conakry,Guinée,2024-01-23,Recommandation,Actif
+CLT-0647,Mamadou Kouyaté,Masculin,24,Professionnel,Nzérékoré,Guinée Forestière,Guinée,2020-06-27,Courtier,Actif
+CLT-0648,Oumar Keita,Masculin,64,Professionnel,Conakry,Conakry,Guinée,2024-04-02,Courtier,Actif
+CLT-0649,Fodé Traoré,Masculin,34,Particulier,Nzérékoré,Guinée Forestière,Guinée,2024-05-01,Campagne digitale,Actif
+CLT-0650,Aissatou Konaté,Féminin,39,Particulier,Kissidougou,Guinée Forestière,Guinée,2023-02-20,Partenaire bancaire,Actif
+CLT-0651,Nene Soumah,Féminin,39,Particulier,Mamou,Moyenne Guinée,Guinée,2021-08-03,Partenaire bancaire,Actif
+CLT-0652,Lansana Fofana,Masculin,43,Particulier,Conakry,Conakry,Guinée,2020-02-29,Campagne digitale,Résilié
+CLT-0653,Oumar Millimono,Masculin,25,Particulier,Labé,Moyenne Guinée,Guinée,2023-12-14,Partenaire bancaire,Inactif
+CLT-0654,Rabi Guilavogui,Féminin,41,Particulier,Conakry,Conakry,Guinée,2024-04-02,Prospection commerciale,Inactif
+CLT-0655,Elhadj Baldé,Masculin,30,Particulier,Faranah,Haute Guinée,Guinée,2023-12-01,Campagne digitale,Actif
+CLT-0656,Binta Cissé,Féminin,36,Grande Entreprise,Conakry,Conakry,Guinée,2025-01-08,Partenaire bancaire,Actif
+CLT-0657,Oumou Konaté,Féminin,66,Grande Entreprise,Conakry,Conakry,Guinée,2024-10-28,Courtier,Actif
+CLT-0658,Alpha Cissé,Masculin,29,Particulier,Kankan,Haute Guinée,Guinée,2020-12-15,Courtier,Inactif
+CLT-0659,Mariama Camara,Masculin,47,PME,Boké,Basse Guinée,Guinée,2021-10-29,Partenaire bancaire,Actif
+CLT-0660,Nene Tolno,Féminin,47,Professionnel,Conakry,Conakry,Guinée,2021-05-14,Partenaire bancaire,Actif
+CLT-0661,Oumou Barry,Féminin,43,Particulier,Mamou,Moyenne Guinée,Guinée,2022-06-01,Campagne digitale,Actif
+CLT-0662,Nene Condé,Féminin,33,Professionnel,Conakry,Conakry,Guinée,2025-03-21,Prospection commerciale,Actif
+CLT-0663,Mariama Baldé,Féminin,60,Particulier,Nzérékoré,Guinée Forestière,Guinée,2024-08-10,Campagne digitale,Actif
+CLT-0664,Mariama Fofana,Féminin,28,Professionnel,Nzérékoré,Guinée Forestière,Guinée,2024-08-06,Campagne digitale,Actif
+CLT-0665,Alpha Traoré,Masculin,30,PME,Siguiri,Haute Guinée,Guinée,2023-07-26,Recommandation,Inactif
+CLT-0666,Elhadj Sow,Masculin,40,Particulier,Nzérékoré,Guinée Forestière,Guinée,2021-02-04,Agence,Actif
+CLT-0667,Aminata Baldé,Féminin,65,Particulier,Kissidougou,Guinée Forestière,Guinée,2022-06-09,Prospection commerciale,Résilié
+CLT-0668,Mariama Baldé,Féminin,22,Professionnel,Kankan,Haute Guinée,Guinée,2024-10-01,Agence,Inactif
+CLT-0669,Bangaly Sow,Masculin,25,Particulier,Nzérékoré,Guinée Forestière,Guinée,2025-06-27,Courtier,Actif
+CLT-0670,Fatoumata Condé,Féminin,49,Professionnel,Labé,Moyenne Guinée,Guinée,2021-10-13,Prospection commerciale,Actif
+CLT-0671,Oumou Sow,Féminin,35,Professionnel,Kankan,Haute Guinée,Guinée,2021-01-20,Partenaire bancaire,Actif
+CLT-0672,Oumou Sylla,Féminin,40,Grande Entreprise,Nzérékoré,Guinée Forestière,Guinée,2020-10-02,Recommandation,Actif
+CLT-0673,Mohamed Cissé,Masculin,64,Particulier,Dubréka,Basse Guinée,Guinée,2020-06-22,Agence,Actif
+CLT-0674,Binta Fofana,Féminin,49,Professionnel,Kankan,Haute Guinée,Guinée,2022-05-18,Partenaire bancaire,Inactif
+CLT-0675,Hawa Condé,Féminin,33,Particulier,Conakry,Conakry,Guinée,2022-10-17,Prospection commerciale,Actif
+CLT-0676,Oumou Sow,Féminin,58,Particulier,Dubréka,Basse Guinée,Guinée,2023-03-09,Campagne digitale,Actif
+CLT-0677,Kadiatou Cissé,Masculin,66,Particulier,Mamou,Moyenne Guinée,Guinée,2022-12-14,Courtier,Actif
+CLT-0678,Mariama Fofana,Masculin,27,Particulier,Boké,Basse Guinée,Guinée,2023-09-21,Prospection commerciale,Actif
+CLT-0679,Rabi Bah,Féminin,43,Particulier,Conakry,Conakry,Guinée,2022-07-18,Partenaire bancaire,Résilié
+CLT-0680,Oumou Guilavogui,Féminin,40,Particulier,Conakry,Conakry,Guinée,2025-03-05,Partenaire bancaire,Actif
+CLT-0681,Fatoumata Cissé,Féminin,59,Particulier,Conakry,Conakry,Guinée,2021-08-20,Prospection commerciale,Actif
+CLT-0682,Binta Barry,Féminin,30,Particulier,Siguiri,Haute Guinée,Guinée,2021-07-23,Courtier,Actif
+CLT-0683,Aminata Doumbouya,Féminin,22,Professionnel,Nzérékoré,Guinée Forestière,Guinée,2025-02-06,Partenaire bancaire,Actif
+CLT-0684,Hawa Konaté,Féminin,38,PME,Conakry,Conakry,Guinée,2021-01-05,Partenaire bancaire,Inactif
+CLT-0685,Mariama Sylla,Féminin,60,Grande Entreprise,Conakry,Conakry,Guinée,2022-10-12,Campagne digitale,Inactif
+CLT-0686,Elhadj Konaté,Masculin,35,Professionnel,Siguiri,Haute Guinée,Guinée,2020-04-21,Prospection commerciale,Actif
+CLT-0687,Ibrahima Konaté,Masculin,51,Particulier,Kindia,Basse Guinée,Guinée,2024-03-08,Partenaire bancaire,Actif
+CLT-0688,Binta Doumbouya,Féminin,31,Particulier,Labé,Moyenne Guinée,Guinée,2021-08-14,Campagne digitale,Actif
+CLT-0689,Nene Bah,Féminin,28,Grande Entreprise,Kankan,Haute Guinée,Guinée,2025-05-12,Campagne digitale,Actif
+CLT-0690,Hawa Doumbouya,Féminin,39,PME,Conakry,Conakry,Guinée,2023-04-11,Campagne digitale,Actif
+CLT-0691,Kadiatou Traoré,Masculin,55,Particulier,Mamou,Moyenne Guinée,Guinée,2021-01-03,Courtier,Actif
+CLT-0692,Alpha Diallo,Masculin,48,Particulier,Conakry,Conakry,Guinée,2022-07-02,Courtier,Actif
+CLT-0693,Aminata Traoré,Féminin,24,Particulier,Conakry,Conakry,Guinée,2025-04-06,Partenaire bancaire,Actif
+CLT-0694,Aminata Camara,Masculin,67,Grande Entreprise,Conakry,Conakry,Guinée,2023-05-23,Agence,Actif
+CLT-0695,Oumar Konaté,Masculin,38,Particulier,Boké,Basse Guinée,Guinée,2020-06-04,Prospection commerciale,Actif
+CLT-0696,Oumou Soumah,Féminin,38,Particulier,Conakry,Conakry,Guinée,2024-05-10,Recommandation,Actif
+CLT-0697,Fatoumata Doumbouya,Féminin,38,Particulier,Conakry,Conakry,Guinée,2025-06-28,Agence,Actif
+CLT-0698,Fatoumata Camara,Masculin,31,Particulier,Labé,Moyenne Guinée,Guinée,2023-06-11,Prospection commerciale,Actif
+CLT-0699,Aminata Camara,Féminin,24,Particulier,Nzérékoré,Guinée Forestière,Guinée,2021-05-28,Campagne digitale,Actif
+CLT-0700,Aissatou Diallo,Féminin,24,Professionnel,Kindia,Basse Guinée,Guinée,2023-12-04,Courtier,Résilié
+CLT-0701,Mariama Cissé,Masculin,52,Particulier,Siguiri,Haute Guinée,Guinée,2024-05-18,Recommandation,Actif
+CLT-0702,Boubacar Cissé,Masculin,29,Professionnel,Kissidougou,Guinée Forestière,Guinée,2022-01-05,Courtier,Actif
+CLT-0703,Fatoumata Barry,Féminin,45,Particulier,Dubréka,Basse Guinée,Guinée,2020-06-13,Campagne digitale,Inactif
+CLT-0704,Kadiatou Konaté,Féminin,57,Particulier,Labé,Moyenne Guinée,Guinée,2021-01-26,Courtier,Actif
+CLT-0705,Bangaly Cissé,Masculin,27,PME,Kindia,Basse Guinée,Guinée,2021-01-23,Agence,Actif
+CLT-0706,Kadiatou Condé,Masculin,53,Particulier,Faranah,Haute Guinée,Guinée,2023-08-10,Courtier,Actif
+CLT-0707,Fatoumata Bah,Féminin,43,Particulier,Faranah,Haute Guinée,Guinée,2020-03-28,Campagne digitale,Actif
+CLT-0708,Nene Sylla,Féminin,59,Particulier,Conakry,Conakry,Guinée,2024-02-15,Agence,Actif
+CLT-0709,Fatoumata Fofana,Masculin,24,Particulier,Boké,Basse Guinée,Guinée,2020-01-30,Agence,Actif
+CLT-0710,Mariama Tolno,Féminin,61,Particulier,Nzérékoré,Guinée Forestière,Guinée,2024-08-01,Recommandation,Actif
+CLT-0711,Alpha Traoré,Masculin,49,Particulier,Siguiri,Haute Guinée,Guinée,2024-02-20,Prospection commerciale,Actif
+CLT-0712,Kadiatou Sow,Masculin,30,Particulier,Dubréka,Basse Guinée,Guinée,2021-03-12,Recommandation,Actif
+CLT-0713,Mariama Camara,Féminin,39,Particulier,Labé,Moyenne Guinée,Guinée,2023-11-27,Courtier,Actif
+CLT-0714,Kadiatou Baldé,Féminin,24,Particulier,Faranah,Haute Guinée,Guinée,2023-07-18,Partenaire bancaire,Actif
+CLT-0715,Mamadou Cissé,Masculin,27,Particulier,Conakry,Conakry,Guinée,2020-07-01,Prospection commerciale,Actif
+CLT-0716,Oumou Cissé,Féminin,66,Particulier,Conakry,Conakry,Guinée,2021-07-08,Partenaire bancaire,Actif
+CLT-0717,Thierno Fofana,Masculin,66,Particulier,Conakry,Conakry,Guinée,2022-10-20,Partenaire bancaire,Résilié
+CLT-0718,Hawa Bangoura,Féminin,22,Professionnel,Conakry,Conakry,Guinée,2022-12-21,Recommandation,Actif
+CLT-0719,Elhadj Traoré,Masculin,39,Particulier,Conakry,Conakry,Guinée,2020-11-01,Prospection commerciale,Inactif
+CLT-0720,Binta Konaté,Féminin,32,Professionnel,Conakry,Conakry,Guinée,2023-08-13,Courtier,Actif
+CLT-0721,Aminata Soumah,Féminin,61,PME,Boké,Basse Guinée,Guinée,2020-03-29,Recommandation,Actif
+CLT-0722,Thierno Diallo,Masculin,53,Particulier,Conakry,Conakry,Guinée,2021-04-26,Prospection commerciale,Actif
+CLT-0723,Oumou Traoré,Féminin,65,PME,Conakry,Conakry,Guinée,2020-08-13,Courtier,Actif
+CLT-0724,Daouda Traoré,Masculin,46,PME,Conakry,Conakry,Guinée,2023-04-13,Campagne digitale,Actif
+CLT-0725,Aissatou Traoré,Féminin,61,Particulier,Labé,Moyenne Guinée,Guinée,2020-10-06,Campagne digitale,Actif
+CLT-0726,Aminata Traoré,Féminin,43,Particulier,Mamou,Moyenne Guinée,Guinée,2020-05-02,Courtier,Actif
+CLT-0727,Binta Bangoura,Féminin,32,PME,Conakry,Conakry,Guinée,2021-08-27,Partenaire bancaire,Actif
+CLT-0728,Kadiatou Sow,Masculin,36,Particulier,Siguiri,Haute Guinée,Guinée,2022-09-28,Agence,Actif
+CLT-0729,Aminata Diallo,Féminin,68,Particulier,Guéckédou,Guinée Forestière,Guinée,2021-05-22,Courtier,Actif
+CLT-0730,Kadiatou Sylla,Masculin,58,PME,Kindia,Basse Guinée,Guinée,2020-03-31,Recommandation,Résilié
+CLT-0731,Daouda Keita,Masculin,47,Particulier,Faranah,Haute Guinée,Guinée,2024-08-09,Recommandation,Actif
+CLT-0732,Alpha Sow,Masculin,22,Professionnel,Labé,Moyenne Guinée,Guinée,2021-03-22,Agence,Actif
+CLT-0733,Alpha Diallo,Masculin,52,Professionnel,Conakry,Conakry,Guinée,2022-07-29,Partenaire bancaire,Actif
+CLT-0734,Elhadj Tolno,Masculin,30,PME,Kindia,Basse Guinée,Guinée,2024-06-05,Courtier,Actif
+CLT-0735,Alpha Millimono,Masculin,66,Particulier,Conakry,Conakry,Guinée,2022-05-22,Courtier,Actif
+CLT-0736,Alpha Fofana,Masculin,43,Professionnel,Conakry,Conakry,Guinée,2025-04-20,Prospection commerciale,Actif
+CLT-0737,Oumar Millimono,Masculin,45,Particulier,Conakry,Conakry,Guinée,2022-01-20,Agence,Actif
+CLT-0738,Aissatou Traoré,Masculin,30,Grande Entreprise,Conakry,Conakry,Guinée,2020-08-20,Prospection commerciale,Actif
+CLT-0739,Sekou Soumah,Masculin,44,PME,Labé,Moyenne Guinée,Guinée,2022-05-16,Courtier,Actif
+CLT-0740,Hawa Tolno,Féminin,53,Particulier,Siguiri,Haute Guinée,Guinée,2022-08-20,Prospection commerciale,Actif
+CLT-0741,Binta Fofana,Féminin,45,PME,Guéckédou,Guinée Forestière,Guinée,2024-07-14,Recommandation,Actif
+CLT-0742,Mariama Barry,Féminin,47,PME,Conakry,Conakry,Guinée,2025-05-13,Recommandation,Actif
+CLT-0743,Mariama Sylla,Féminin,53,Particulier,Conakry,Conakry,Guinée,2025-05-03,Prospection commerciale,Actif
+CLT-0744,Nene Sylla,Féminin,52,Particulier,Kankan,Haute Guinée,Guinée,2023-08-13,Recommandation,Actif
+CLT-0745,Mamadou Condé,Masculin,55,Professionnel,Labé,Moyenne Guinée,Guinée,2021-12-03,Prospection commerciale,Actif
+CLT-0746,Binta Baldé,Féminin,64,Professionnel,Siguiri,Haute Guinée,Guinée,2022-06-30,Campagne digitale,Actif
+CLT-0747,Lansana Konaté,Masculin,38,Particulier,Labé,Moyenne Guinée,Guinée,2021-08-13,Recommandation,Actif
+CLT-0748,Binta Konaté,Féminin,61,Grande Entreprise,Nzérékoré,Guinée Forestière,Guinée,2021-08-07,Agence,Résilié
+CLT-0749,Thierno Condé,Masculin,29,Particulier,Kindia,Basse Guinée,Guinée,2020-09-16,Campagne digitale,Actif
+CLT-0750,Abdoulaye Sow,Masculin,67,Particulier,Kindia,Basse Guinée,Guinée,2021-12-05,Agence,Actif
+CLT-0751,Aissatou Kouyaté,Masculin,29,Grande Entreprise,Kindia,Basse Guinée,Guinée,2022-10-19,Agence,Résilié
+CLT-0752,Aissatou Diallo,Féminin,56,Grande Entreprise,Conakry,Conakry,Guinée,2023-12-15,Courtier,Actif
+CLT-0753,Rabi Sylla,Féminin,58,Professionnel,Kissidougou,Guinée Forestière,Guinée,2021-11-24,Prospection commerciale,Actif
+CLT-0754,Fatoumata Sylla,Féminin,65,Professionnel,Kindia,Basse Guinée,Guinée,2022-04-02,Partenaire bancaire,Inactif
+CLT-0755,Hawa Barry,Féminin,42,Particulier,Boké,Basse Guinée,Guinée,2023-04-09,Partenaire bancaire,Actif
+CLT-0756,Kadiatou Diallo,Féminin,27,Particulier,Kankan,Haute Guinée,Guinée,2023-10-07,Recommandation,Résilié
+CLT-0757,Kadiatou Cissé,Féminin,42,Professionnel,Kankan,Haute Guinée,Guinée,2020-04-24,Prospection commerciale,Actif
+CLT-0758,Daouda Guilavogui,Masculin,46,Particulier,Kindia,Basse Guinée,Guinée,2021-12-20,Courtier,Résilié
+CLT-0759,Abdoulaye Tolno,Masculin,48,PME,Conakry,Conakry,Guinée,2024-07-08,Prospection commerciale,Résilié
+CLT-0760,Oumou Sylla,Féminin,59,Professionnel,Conakry,Conakry,Guinée,2021-09-13,Campagne digitale,Résilié
+CLT-0761,Mariama Baldé,Féminin,46,Particulier,Labé,Moyenne Guinée,Guinée,2025-02-15,Courtier,Actif
+CLT-0762,Rabi Sylla,Féminin,34,Particulier,Labé,Moyenne Guinée,Guinée,2023-02-08,Campagne digitale,Actif
+CLT-0763,Rabi Kouyaté,Féminin,53,Professionnel,Kankan,Haute Guinée,Guinée,2020-02-24,Recommandation,Actif
+CLT-0764,Binta Camara,Féminin,63,Professionnel,Kindia,Basse Guinée,Guinée,2021-01-02,Campagne digitale,Résilié
+CLT-0765,Mamadou Camara,Masculin,39,Particulier,Dubréka,Basse Guinée,Guinée,2023-05-11,Prospection commerciale,Actif
+CLT-0766,Rabi Bangoura,Féminin,38,Professionnel,Kankan,Haute Guinée,Guinée,2023-11-22,Recommandation,Actif
+CLT-0767,Amadou Konaté,Masculin,59,Particulier,Kindia,Basse Guinée,Guinée,2024-12-03,Prospection commerciale,Actif
+CLT-0768,Ibrahima Doumbouya,Masculin,45,Particulier,Guéckédou,Guinée Forestière,Guinée,2021-12-30,Recommandation,Actif
+CLT-0769,Mariama Traoré,Masculin,62,Particulier,Conakry,Conakry,Guinée,2024-03-21,Agence,Actif
+CLT-0770,Aminata Doumbouya,Féminin,65,Professionnel,Labé,Moyenne Guinée,Guinée,2022-12-30,Partenaire bancaire,Actif
+CLT-0771,Mamadou Sylla,Masculin,55,Particulier,Faranah,Haute Guinée,Guinée,2022-04-23,Courtier,Résilié
+CLT-0772,Oumar Traoré,Masculin,31,Particulier,Siguiri,Haute Guinée,Guinée,2024-06-16,Partenaire bancaire,Actif
+CLT-0773,Daouda Tolno,Masculin,26,Particulier,Conakry,Conakry,Guinée,2020-02-05,Campagne digitale,Actif
+CLT-0774,Aissatou Tolno,Féminin,60,Particulier,Dubréka,Basse Guinée,Guinée,2020-12-18,Prospection commerciale,Actif
+CLT-0775,Sekou Sylla,Masculin,66,Particulier,Conakry,Conakry,Guinée,2020-09-13,Agence,Actif
+CLT-0776,Daouda Camara,Masculin,26,Particulier,Kankan,Haute Guinée,Guinée,2022-06-02,Recommandation,Actif
+CLT-0777,Mariama Baldé,Masculin,25,Particulier,Guéckédou,Guinée Forestière,Guinée,2020-03-29,Recommandation,Actif
+CLT-0778,Oumar Camara,Masculin,60,Particulier,Guéckédou,Guinée Forestière,Guinée,2021-01-13,Prospection commerciale,Actif
+CLT-0779,Mohamed Doumbouya,Masculin,59,Particulier,Conakry,Conakry,Guinée,2022-10-22,Prospection commerciale,Actif
+CLT-0780,Oumar Baldé,Masculin,22,Particulier,Mamou,Moyenne Guinée,Guinée,2025-05-28,Courtier,Actif
+CLT-0781,Oumar Traoré,Masculin,54,PME,Kindia,Basse Guinée,Guinée,2023-11-30,Partenaire bancaire,Actif
+CLT-0782,Thierno Guilavogui,Masculin,46,Particulier,Kankan,Haute Guinée,Guinée,2022-04-14,Recommandation,Inactif
+CLT-0783,Mariama Tolno,Féminin,29,Particulier,Kankan,Haute Guinée,Guinée,2022-01-09,Prospection commerciale,Actif
+CLT-0784,Alpha Soumah,Masculin,53,Particulier,Kindia,Basse Guinée,Guinée,2023-05-14,Prospection commerciale,Actif
+CLT-0785,Kadiatou Sow,Féminin,48,Particulier,Siguiri,Haute Guinée,Guinée,2021-01-21,Recommandation,Inactif
+CLT-0786,Hawa Konaté,Féminin,22,Grande Entreprise,Kindia,Basse Guinée,Guinée,2020-08-03,Campagne digitale,Actif
+CLT-0787,Oumar Sylla,Masculin,47,Particulier,Nzérékoré,Guinée Forestière,Guinée,2020-07-27,Prospection commerciale,Résilié
+CLT-0788,Alpha Guilavogui,Masculin,34,Particulier,Nzérékoré,Guinée Forestière,Guinée,2022-04-07,Recommandation,Actif
+CLT-0789,Binta Doumbouya,Féminin,67,PME,Kankan,Haute Guinée,Guinée,2024-03-28,Prospection commerciale,Résilié
+CLT-0790,Binta Fofana,Féminin,47,Grande Entreprise,Labé,Moyenne Guinée,Guinée,2020-10-28,Campagne digitale,Actif
+CLT-0791,Binta Cissé,Féminin,36,Professionnel,Conakry,Conakry,Guinée,2020-07-22,Prospection commerciale,Actif
+CLT-0792,Fatoumata Diallo,Masculin,33,Particulier,Boké,Basse Guinée,Guinée,2020-11-08,Courtier,Actif
+CLT-0793,Alpha Keita,Masculin,53,PME,Conakry,Conakry,Guinée,2023-09-17,Campagne digitale,Actif
+CLT-0794,Nene Soumah,Féminin,56,Particulier,Kissidougou,Guinée Forestière,Guinée,2020-03-05,Campagne digitale,Inactif
+CLT-0795,Boubacar Tolno,Masculin,42,PME,Kindia,Basse Guinée,Guinée,2020-03-14,Recommandation,Actif
+CLT-0796,Aissatou Cissé,Féminin,49,Particulier,Mamou,Moyenne Guinée,Guinée,2022-09-25,Recommandation,Actif
+CLT-0797,Nene Sow,Féminin,58,Particulier,Nzérékoré,Guinée Forestière,Guinée,2020-11-16,Partenaire bancaire,Actif
+CLT-0798,Binta Baldé,Féminin,46,Professionnel,Labé,Moyenne Guinée,Guinée,2025-06-25,Courtier,Actif
+CLT-0799,Kadiatou Bah,Masculin,30,PME,Conakry,Conakry,Guinée,2024-02-28,Partenaire bancaire,Actif
+CLT-0800,Oumou Camara,Féminin,49,Particulier,Labé,Moyenne Guinée,Guinée,2021-12-20,Recommandation,Actif
+CLT-0801,Sekou Kouyaté,Masculin,59,Particulier,Boké,Basse Guinée,Guinée,2024-11-14,Courtier,Actif
+CLT-0802,Mamadou Sow,Masculin,42,Particulier,Boké,Basse Guinée,Guinée,2022-05-15,Partenaire bancaire,Actif
+CLT-0803,Aminata Diallo,Féminin,66,Particulier,Conakry,Conakry,Guinée,2021-10-10,Campagne digitale,Actif
+CLT-0804,Rabi Camara,Féminin,53,Particulier,Boké,Basse Guinée,Guinée,2021-11-19,Campagne digitale,Actif
+CLT-0805,Aissatou Fofana,Féminin,41,Particulier,Labé,Moyenne Guinée,Guinée,2022-10-14,Prospection commerciale,Inactif
+CLT-0806,Aissatou Traoré,Masculin,40,Particulier,Kindia,Basse Guinée,Guinée,2023-03-20,Campagne digitale,Inactif
+CLT-0807,Kadiatou Camara,Masculin,59,Particulier,Conakry,Conakry,Guinée,2024-06-28,Partenaire bancaire,Actif
+CLT-0808,Bangaly Barry,Masculin,63,PME,Labé,Moyenne Guinée,Guinée,2021-09-06,Campagne digitale,Actif
+CLT-0809,Kadiatou Bangoura,Féminin,47,Particulier,Kankan,Haute Guinée,Guinée,2023-10-07,Partenaire bancaire,Actif
+CLT-0810,Mariama Konaté,Masculin,58,Particulier,Boké,Basse Guinée,Guinée,2024-08-14,Prospection commerciale,Résilié
+CLT-0811,Nene Fofana,Féminin,49,Grande Entreprise,Nzérékoré,Guinée Forestière,Guinée,2020-05-02,Partenaire bancaire,Actif
+CLT-0812,Aissatou Condé,Féminin,31,Professionnel,Faranah,Haute Guinée,Guinée,2024-09-24,Campagne digitale,Actif
+CLT-0813,Abdoulaye Bangoura,Masculin,39,PME,Kankan,Haute Guinée,Guinée,2021-06-09,Prospection commerciale,Actif
+CLT-0814,Kadiatou Camara,Féminin,31,Particulier,Conakry,Conakry,Guinée,2024-08-21,Courtier,Actif
+CLT-0815,Oumou Bah,Féminin,34,Particulier,Conakry,Conakry,Guinée,2021-06-13,Courtier,Actif
+CLT-0816,Ibrahima Cissé,Masculin,23,Particulier,Guéckédou,Guinée Forestière,Guinée,2021-10-04,Partenaire bancaire,Actif
+CLT-0817,Daouda Guilavogui,Masculin,64,Professionnel,Conakry,Conakry,Guinée,2025-04-15,Prospection commerciale,Inactif
+CLT-0818,Oumar Baldé,Masculin,54,Grande Entreprise,Labé,Moyenne Guinée,Guinée,2024-08-24,Partenaire bancaire,Résilié
+CLT-0819,Binta Barry,Féminin,37,Professionnel,Faranah,Haute Guinée,Guinée,2021-10-03,Courtier,Inactif
+CLT-0820,Kadiatou Bangoura,Féminin,35,Particulier,Conakry,Conakry,Guinée,2025-06-09,Courtier,Actif
+CLT-0821,Rabi Bah,Féminin,53,Particulier,Mamou,Moyenne Guinée,Guinée,2020-08-19,Courtier,Actif
+CLT-0822,Kadiatou Doumbouya,Féminin,31,Particulier,Mamou,Moyenne Guinée,Guinée,2024-08-09,Courtier,Actif
+CLT-0823,Ibrahima Condé,Masculin,38,Professionnel,Kindia,Basse Guinée,Guinée,2025-05-16,Prospection commerciale,Actif
+CLT-0824,Aissatou Condé,Masculin,50,Particulier,Guéckédou,Guinée Forestière,Guinée,2022-03-15,Courtier,Actif
+CLT-0825,Lansana Traoré,Masculin,32,Grande Entreprise,Kankan,Haute Guinée,Guinée,2024-12-06,Prospection commerciale,Actif
+CLT-0826,Amadou Barry,Masculin,53,Particulier,Labé,Moyenne Guinée,Guinée,2024-09-18,Courtier,Actif
+CLT-0827,Thierno Doumbouya,Masculin,54,Particulier,Labé,Moyenne Guinée,Guinée,2024-02-02,Partenaire bancaire,Actif
+CLT-0828,Fatoumata Bah,Féminin,63,Professionnel,Boké,Basse Guinée,Guinée,2024-06-08,Prospection commerciale,Actif
+CLT-0829,Kadiatou Kouyaté,Féminin,42,Professionnel,Conakry,Conakry,Guinée,2021-05-26,Partenaire bancaire,Actif
+CLT-0830,Aminata Bangoura,Masculin,42,Particulier,Guéckédou,Guinée Forestière,Guinée,2020-09-30,Courtier,Actif
+CLT-0831,Aminata Traoré,Féminin,27,Particulier,Conakry,Conakry,Guinée,2024-11-29,Campagne digitale,Résilié
+CLT-0832,Mamadou Diallo,Masculin,57,Professionnel,Boké,Basse Guinée,Guinée,2025-01-31,Recommandation,Résilié
+CLT-0833,Amadou Konaté,Masculin,25,Particulier,Labé,Moyenne Guinée,Guinée,2021-06-16,Agence,Actif
+CLT-0834,Aissatou Baldé,Féminin,29,Particulier,Kankan,Haute Guinée,Guinée,2024-05-02,Campagne digitale,Inactif
+CLT-0835,Mariama Condé,Féminin,67,Particulier,Kissidougou,Guinée Forestière,Guinée,2024-07-23,Courtier,Actif
+CLT-0836,Oumou Sylla,Féminin,49,PME,Kankan,Haute Guinée,Guinée,2024-08-14,Courtier,Actif
+CLT-0837,Daouda Konaté,Masculin,48,PME,Conakry,Conakry,Guinée,2025-06-22,Courtier,Actif
+CLT-0838,Kadiatou Guilavogui,Féminin,59,Professionnel,Kankan,Haute Guinée,Guinée,2020-01-22,Campagne digitale,Actif
+CLT-0839,Oumou Traoré,Féminin,67,Particulier,Labé,Moyenne Guinée,Guinée,2023-05-08,Courtier,Actif
+CLT-0840,Ibrahima Soumah,Masculin,37,Particulier,Labé,Moyenne Guinée,Guinée,2023-05-26,Prospection commerciale,Résilié
+CLT-0841,Mamadou Doumbouya,Masculin,54,Professionnel,Kindia,Basse Guinée,Guinée,2022-03-19,Prospection commerciale,Actif
+CLT-0842,Kadiatou Konaté,Masculin,38,Particulier,Kankan,Haute Guinée,Guinée,2021-11-25,Campagne digitale,Actif
+CLT-0843,Nene Bangoura,Féminin,31,Particulier,Kindia,Basse Guinée,Guinée,2025-06-27,Agence,Actif
+CLT-0844,Hawa Bangoura,Féminin,40,Grande Entreprise,Conakry,Conakry,Guinée,2024-08-25,Courtier,Actif
+CLT-0845,Aissatou Soumah,Féminin,53,PME,Conakry,Conakry,Guinée,2024-10-13,Prospection commerciale,Actif
+CLT-0846,Fatoumata Traoré,Féminin,31,Particulier,Conakry,Conakry,Guinée,2022-08-21,Courtier,Actif
+CLT-0847,Oumou Camara,Féminin,53,Particulier,Labé,Moyenne Guinée,Guinée,2023-12-23,Partenaire bancaire,Actif
+CLT-0848,Mariama Sylla,Féminin,29,Particulier,Conakry,Conakry,Guinée,2021-08-04,Agence,Inactif
+CLT-0849,Rabi Baldé,Féminin,35,Professionnel,Dubréka,Basse Guinée,Guinée,2022-12-13,Partenaire bancaire,Actif
+CLT-0850,Sekou Cissé,Masculin,65,Particulier,Kindia,Basse Guinée,Guinée,2021-08-05,Prospection commerciale,Résilié
+CLT-0851,Boubacar Guilavogui,Masculin,59,Grande Entreprise,Conakry,Conakry,Guinée,2021-10-24,Agence,Actif
+CLT-0852,Binta Tolno,Féminin,62,Grande Entreprise,Kankan,Haute Guinée,Guinée,2020-01-12,Courtier,Résilié
+CLT-0853,Hawa Baldé,Féminin,30,Particulier,Conakry,Conakry,Guinée,2023-08-11,Courtier,Actif
+CLT-0854,Alpha Sow,Masculin,60,Particulier,Labé,Moyenne Guinée,Guinée,2020-12-30,Agence,Résilié
+CLT-0855,Mariama Diallo,Féminin,35,Particulier,Faranah,Haute Guinée,Guinée,2021-08-06,Prospection commerciale,Inactif
+CLT-0856,Oumar Kouyaté,Masculin,53,PME,Boké,Basse Guinée,Guinée,2025-03-02,Courtier,Résilié
+CLT-0857,Bangaly Camara,Masculin,45,Particulier,Kankan,Haute Guinée,Guinée,2024-12-18,Campagne digitale,Actif
+CLT-0858,Mariama Bangoura,Féminin,45,Professionnel,Labé,Moyenne Guinée,Guinée,2022-05-22,Recommandation,Actif
+CLT-0859,Binta Condé,Féminin,63,Professionnel,Conakry,Conakry,Guinée,2022-10-11,Partenaire bancaire,Actif
+CLT-0860,Lansana Tolno,Masculin,49,Particulier,Faranah,Haute Guinée,Guinée,2021-09-07,Agence,Résilié
+CLT-0861,Kadiatou Keita,Féminin,49,Particulier,Conakry,Conakry,Guinée,2020-06-05,Recommandation,Actif
+CLT-0862,Oumou Camara,Féminin,51,Professionnel,Nzérékoré,Guinée Forestière,Guinée,2021-06-02,Courtier,Actif
+CLT-0863,Mariama Diallo,Masculin,29,Professionnel,Kankan,Haute Guinée,Guinée,2024-05-29,Agence,Inactif
+CLT-0864,Alpha Bangoura,Masculin,67,Particulier,Nzérékoré,Guinée Forestière,Guinée,2022-07-20,Prospection commerciale,Actif
+CLT-0865,Hawa Konaté,Féminin,35,Particulier,Mamou,Moyenne Guinée,Guinée,2023-05-22,Courtier,Inactif
+CLT-0866,Daouda Sow,Masculin,23,Particulier,Conakry,Conakry,Guinée,2020-12-17,Prospection commerciale,Actif
+CLT-0867,Rabi Cissé,Féminin,41,Professionnel,Dubréka,Basse Guinée,Guinée,2022-01-08,Prospection commerciale,Actif
+CLT-0868,Aminata Barry,Féminin,30,Particulier,Conakry,Conakry,Guinée,2024-07-29,Recommandation,Actif
+CLT-0869,Mamadou Traoré,Masculin,52,Professionnel,Boké,Basse Guinée,Guinée,2022-06-11,Prospection commerciale,Inactif
+CLT-0870,Alpha Kouyaté,Masculin,51,Particulier,Labé,Moyenne Guinée,Guinée,2020-08-26,Agence,Résilié
+CLT-0871,Binta Cissé,Féminin,23,PME,Kankan,Haute Guinée,Guinée,2021-02-16,Courtier,Actif
+CLT-0872,Fatoumata Soumah,Féminin,22,Particulier,Siguiri,Haute Guinée,Guinée,2022-06-03,Campagne digitale,Inactif
+CLT-0873,Fatoumata Cissé,Féminin,47,Particulier,Nzérékoré,Guinée Forestière,Guinée,2023-06-06,Prospection commerciale,Résilié
+CLT-0874,Kadiatou Bah,Féminin,55,Particulier,Nzérékoré,Guinée Forestière,Guinée,2023-02-07,Recommandation,Actif
+CLT-0875,Binta Camara,Féminin,53,Professionnel,Boké,Basse Guinée,Guinée,2022-07-07,Prospection commerciale,Actif
+CLT-0876,Lansana Traoré,Masculin,52,Particulier,Conakry,Conakry,Guinée,2021-03-25,Partenaire bancaire,Résilié
+CLT-0877,Rabi Tolno,Féminin,30,PME,Nzérékoré,Guinée Forestière,Guinée,2022-03-10,Campagne digitale,Inactif
+CLT-0878,Binta Konaté,Féminin,61,Particulier,Mamou,Moyenne Guinée,Guinée,2020-06-25,Prospection commerciale,Actif
+CLT-0879,Abdoulaye Konaté,Masculin,60,Particulier,Faranah,Haute Guinée,Guinée,2025-04-15,Campagne digitale,Actif
+CLT-0880,Aissatou Bah,Masculin,23,Particulier,Kindia,Basse Guinée,Guinée,2023-10-18,Agence,Actif
+CLT-0881,Alpha Soumah,Masculin,49,Particulier,Conakry,Conakry,Guinée,2023-02-24,Agence,Actif
+CLT-0882,Hawa Bah,Féminin,57,Particulier,Conakry,Conakry,Guinée,2023-11-14,Partenaire bancaire,Actif
+CLT-0883,Ibrahima Tolno,Masculin,51,Grande Entreprise,Boké,Basse Guinée,Guinée,2025-06-19,Recommandation,Inactif
+CLT-0884,Aissatou Bah,Masculin,54,Particulier,Boké,Basse Guinée,Guinée,2024-11-18,Agence,Résilié
+CLT-0885,Lansana Tolno,Masculin,54,Particulier,Guéckédou,Guinée Forestière,Guinée,2020-11-11,Prospection commerciale,Actif
+CLT-0886,Oumar Traoré,Masculin,50,Grande Entreprise,Boké,Basse Guinée,Guinée,2020-01-14,Agence,Inactif
+CLT-0887,Hawa Kouyaté,Féminin,54,Particulier,Kindia,Basse Guinée,Guinée,2024-01-04,Campagne digitale,Actif
+CLT-0888,Mohamed Keita,Masculin,48,PME,Conakry,Conakry,Guinée,2022-05-28,Campagne digitale,Résilié
+CLT-0889,Nene Guilavogui,Féminin,23,Particulier,Faranah,Haute Guinée,Guinée,2024-01-09,Partenaire bancaire,Résilié
+CLT-0890,Fodé Soumah,Masculin,47,Grande Entreprise,Conakry,Conakry,Guinée,2020-05-05,Campagne digitale,Inactif
+CLT-0891,Kadiatou Bah,Masculin,62,Grande Entreprise,Boké,Basse Guinée,Guinée,2024-11-28,Partenaire bancaire,Résilié
+CLT-0892,Oumou Sow,Féminin,41,Professionnel,Kindia,Basse Guinée,Guinée,2021-12-05,Recommandation,Inactif
+CLT-0893,Boubacar Tolno,Masculin,63,Particulier,Nzérékoré,Guinée Forestière,Guinée,2024-06-02,Partenaire bancaire,Actif
+CLT-0894,Oumou Traoré,Féminin,41,Particulier,Nzérékoré,Guinée Forestière,Guinée,2022-03-09,Prospection commerciale,Actif
+CLT-0895,Mariama Sow,Masculin,40,Particulier,Kankan,Haute Guinée,Guinée,2021-10-01,Partenaire bancaire,Actif
+CLT-0896,Mamadou Diallo,Masculin,56,Professionnel,Conakry,Conakry,Guinée,2024-05-04,Courtier,Actif
+CLT-0897,Ibrahima Guilavogui,Masculin,38,Professionnel,Labé,Moyenne Guinée,Guinée,2020-04-07,Prospection commerciale,Résilié
+CLT-0898,Aminata Baldé,Féminin,22,Particulier,Dubréka,Basse Guinée,Guinée,2024-07-07,Prospection commerciale,Résilié
+CLT-0899,Bangaly Kouyaté,Masculin,40,Professionnel,Faranah,Haute Guinée,Guinée,2023-03-19,Prospection commerciale,Actif
+CLT-0900,Nene Condé,Féminin,28,Particulier,Nzérékoré,Guinée Forestière,Guinée,2024-08-12,Courtier,Actif
+CLT-0901,Daouda Bangoura,Masculin,27,Particulier,Labé,Moyenne Guinée,Guinée,2020-09-23,Campagne digitale,Actif
+CLT-0902,Bangaly Keita,Masculin,47,Professionnel,Kankan,Haute Guinée,Guinée,2022-03-19,Courtier,Actif
+CLT-0903,Binta Cissé,Féminin,68,Grande Entreprise,Mamou,Moyenne Guinée,Guinée,2020-10-22,Partenaire bancaire,Actif
+CLT-0904,Aissatou Keita,Féminin,55,Particulier,Conakry,Conakry,Guinée,2022-08-27,Recommandation,Actif
+CLT-0905,Mariama Fofana,Féminin,48,Particulier,Labé,Moyenne Guinée,Guinée,2021-08-16,Recommandation,Actif
+CLT-0906,Bangaly Kouyaté,Masculin,45,Particulier,Kankan,Haute Guinée,Guinée,2024-06-08,Agence,Actif
+CLT-0907,Fatoumata Kouyaté,Féminin,40,Particulier,Faranah,Haute Guinée,Guinée,2022-09-28,Recommandation,Actif
+CLT-0908,Mariama Bah,Féminin,48,Particulier,Kindia,Basse Guinée,Guinée,2022-07-15,Courtier,Inactif
+CLT-0909,Rabi Sylla,Féminin,30,Particulier,Kankan,Haute Guinée,Guinée,2022-07-10,Prospection commerciale,Actif
+CLT-0910,Mariama Fofana,Féminin,64,Professionnel,Labé,Moyenne Guinée,Guinée,2025-01-17,Campagne digitale,Actif
+CLT-0911,Elhadj Doumbouya,Masculin,63,Particulier,Conakry,Conakry,Guinée,2020-02-20,Partenaire bancaire,Actif
+CLT-0912,Nene Camara,Féminin,63,Professionnel,Conakry,Conakry,Guinée,2023-06-21,Partenaire bancaire,Actif
+CLT-0913,Kadiatou Keita,Masculin,34,PME,Labé,Moyenne Guinée,Guinée,2020-02-08,Recommandation,Actif
+CLT-0914,Mamadou Doumbouya,Masculin,35,Particulier,Mamou,Moyenne Guinée,Guinée,2024-12-22,Partenaire bancaire,Actif
+CLT-0915,Oumou Baldé,Féminin,24,Particulier,Kissidougou,Guinée Forestière,Guinée,2021-11-27,Campagne digitale,Actif
+CLT-0916,Mariama Soumah,Masculin,46,Particulier,Conakry,Conakry,Guinée,2020-07-22,Partenaire bancaire,Actif
+CLT-0917,Thierno Doumbouya,Masculin,27,Particulier,Kissidougou,Guinée Forestière,Guinée,2023-10-21,Agence,Actif
+CLT-0918,Aissatou Diallo,Féminin,67,Particulier,Labé,Moyenne Guinée,Guinée,2021-10-17,Agence,Actif
+CLT-0919,Aminata Millimono,Féminin,29,Particulier,Conakry,Conakry,Guinée,2023-05-07,Partenaire bancaire,Actif
+CLT-0920,Mariama Doumbouya,Féminin,25,Particulier,Nzérékoré,Guinée Forestière,Guinée,2020-05-14,Campagne digitale,Actif
+CLT-0921,Mamadou Doumbouya,Masculin,57,Grande Entreprise,Nzérékoré,Guinée Forestière,Guinée,2021-05-19,Partenaire bancaire,Actif
+CLT-0922,Lansana Baldé,Masculin,48,Particulier,Siguiri,Haute Guinée,Guinée,2022-10-21,Agence,Inactif
+CLT-0923,Bangaly Sow,Masculin,32,PME,Labé,Moyenne Guinée,Guinée,2022-05-17,Partenaire bancaire,Actif
+CLT-0924,Elhadj Fofana,Masculin,40,Professionnel,Conakry,Conakry,Guinée,2020-05-03,Campagne digitale,Actif
+CLT-0925,Oumou Guilavogui,Féminin,62,Particulier,Siguiri,Haute Guinée,Guinée,2021-07-30,Recommandation,Actif
+CLT-0926,Lansana Barry,Masculin,47,Professionnel,Siguiri,Haute Guinée,Guinée,2024-01-24,Partenaire bancaire,Résilié
+CLT-0927,Kadiatou Fofana,Féminin,54,Grande Entreprise,Conakry,Conakry,Guinée,2023-10-28,Courtier,Actif
+CLT-0928,Aminata Condé,Féminin,64,Grande Entreprise,Conakry,Conakry,Guinée,2022-07-30,Partenaire bancaire,Actif
+CLT-0929,Mamadou Fofana,Masculin,52,Particulier,Conakry,Conakry,Guinée,2020-12-21,Campagne digitale,Actif
+CLT-0930,Oumou Sow,Féminin,27,PME,Kankan,Haute Guinée,Guinée,2020-06-07,Partenaire bancaire,Actif
+CLT-0931,Mariama Guilavogui,Féminin,46,PME,Conakry,Conakry,Guinée,2020-12-28,Prospection commerciale,Résilié
+CLT-0932,Elhadj Guilavogui,Masculin,34,Particulier,Conakry,Conakry,Guinée,2020-02-10,Courtier,Actif
+CLT-0933,Kadiatou Barry,Féminin,61,Professionnel,Faranah,Haute Guinée,Guinée,2021-03-28,Agence,Résilié
+CLT-0934,Fatoumata Doumbouya,Féminin,53,Grande Entreprise,Nzérékoré,Guinée Forestière,Guinée,2021-03-04,Recommandation,Actif
+CLT-0935,Mariama Doumbouya,Féminin,58,Particulier,Conakry,Conakry,Guinée,2021-01-31,Prospection commerciale,Actif
+CLT-0936,Alpha Baldé,Masculin,30,Professionnel,Conakry,Conakry,Guinée,2025-03-26,Partenaire bancaire,Inactif
+CLT-0937,Kadiatou Diallo,Féminin,66,Professionnel,Boké,Basse Guinée,Guinée,2023-10-26,Partenaire bancaire,Inactif
+CLT-0938,Daouda Bah,Masculin,42,Particulier,Dubréka,Basse Guinée,Guinée,2021-07-15,Recommandation,Actif
+CLT-0939,Binta Guilavogui,Féminin,55,PME,Faranah,Haute Guinée,Guinée,2021-04-04,Recommandation,Actif
+CLT-0940,Nene Tolno,Féminin,42,Particulier,Conakry,Conakry,Guinée,2020-06-16,Partenaire bancaire,Inactif
+CLT-0941,Daouda Barry,Masculin,37,Particulier,Kindia,Basse Guinée,Guinée,2020-05-08,Prospection commerciale,Actif
+CLT-0942,Fatoumata Bangoura,Masculin,23,Professionnel,Boké,Basse Guinée,Guinée,2021-11-15,Courtier,Actif
+CLT-0943,Kadiatou Soumah,Féminin,25,PME,Labé,Moyenne Guinée,Guinée,2021-04-29,Recommandation,Inactif
+CLT-0944,Mariama Tolno,Féminin,59,Particulier,Dubréka,Basse Guinée,Guinée,2025-02-20,Recommandation,Actif
+CLT-0945,Mohamed Bah,Masculin,50,Particulier,Boké,Basse Guinée,Guinée,2022-06-03,Recommandation,Actif
+CLT-0946,Aissatou Bah,Masculin,40,PME,Kindia,Basse Guinée,Guinée,2023-06-18,Campagne digitale,Actif
+CLT-0947,Elhadj Millimono,Masculin,51,PME,Faranah,Haute Guinée,Guinée,2023-06-22,Recommandation,Actif
+CLT-0948,Elhadj Keita,Masculin,43,Professionnel,Conakry,Conakry,Guinée,2020-01-26,Partenaire bancaire,Actif
+CLT-0949,Kadiatou Sylla,Masculin,62,Particulier,Labé,Moyenne Guinée,Guinée,2022-09-12,Prospection commerciale,Actif
+CLT-0950,Sekou Sylla,Masculin,24,Particulier,Kindia,Basse Guinée,Guinée,2022-06-11,Partenaire bancaire,Résilié
+CLT-0951,Aminata Baldé,Féminin,56,PME,Conakry,Conakry,Guinée,2021-09-24,Partenaire bancaire,Actif
+CLT-0952,Fatoumata Keita,Féminin,59,Professionnel,Conakry,Conakry,Guinée,2021-05-01,Partenaire bancaire,Inactif
+CLT-0953,Daouda Guilavogui,Masculin,34,Grande Entreprise,Kankan,Haute Guinée,Guinée,2021-02-16,Recommandation,Actif
+CLT-0954,Binta Fofana,Féminin,66,Particulier,Nzérékoré,Guinée Forestière,Guinée,2025-05-26,Courtier,Actif
+CLT-0955,Hawa Konaté,Féminin,28,Particulier,Faranah,Haute Guinée,Guinée,2020-03-27,Campagne digitale,Actif
+CLT-0956,Sekou Condé,Masculin,51,Professionnel,Conakry,Conakry,Guinée,2024-02-13,Courtier,Inactif
+CLT-0957,Kadiatou Millimono,Féminin,33,PME,Conakry,Conakry,Guinée,2020-01-21,Recommandation,Actif
+CLT-0958,Mohamed Kouyaté,Masculin,50,Particulier,Nzérékoré,Guinée Forestière,Guinée,2024-04-16,Courtier,Actif
+CLT-0959,Abdoulaye Traoré,Masculin,40,Particulier,Guéckédou,Guinée Forestière,Guinée,2024-01-12,Agence,Actif
+CLT-0960,Thierno Traoré,Masculin,23,Particulier,Kindia,Basse Guinée,Guinée,2020-07-26,Recommandation,Inactif
+CLT-0961,Boubacar Camara,Masculin,43,Grande Entreprise,Conakry,Conakry,Guinée,2021-05-06,Courtier,Inactif
+CLT-0962,Mariama Fofana,Masculin,49,PME,Conakry,Conakry,Guinée,2020-10-22,Agence,Inactif
+CLT-0963,Aissatou Millimono,Masculin,66,Particulier,Nzérékoré,Guinée Forestière,Guinée,2025-06-23,Prospection commerciale,Actif
+CLT-0964,Aminata Baldé,Masculin,34,PME,Conakry,Conakry,Guinée,2020-10-31,Courtier,Actif
+CLT-0965,Aissatou Keita,Féminin,59,PME,Conakry,Conakry,Guinée,2020-06-15,Campagne digitale,Inactif
+CLT-0966,Thierno Keita,Masculin,46,PME,Kankan,Haute Guinée,Guinée,2022-11-08,Courtier,Actif
+CLT-0967,Aissatou Soumah,Féminin,67,Particulier,Mamou,Moyenne Guinée,Guinée,2024-01-05,Campagne digitale,Actif
+CLT-0968,Rabi Bah,Féminin,35,Particulier,Conakry,Conakry,Guinée,2024-11-02,Agence,Actif
+CLT-0969,Oumou Millimono,Féminin,58,Particulier,Siguiri,Haute Guinée,Guinée,2021-06-05,Partenaire bancaire,Actif
+CLT-0970,Lansana Tolno,Masculin,55,Particulier,Nzérékoré,Guinée Forestière,Guinée,2022-08-10,Partenaire bancaire,Actif
+CLT-0971,Binta Tolno,Féminin,49,Particulier,Faranah,Haute Guinée,Guinée,2021-10-11,Courtier,Actif
+CLT-0972,Elhadj Condé,Masculin,38,Professionnel,Labé,Moyenne Guinée,Guinée,2020-06-17,Courtier,Inactif
+CLT-0973,Amadou Condé,Masculin,28,Particulier,Labé,Moyenne Guinée,Guinée,2023-01-23,Agence,Actif
+CLT-0974,Aminata Kouyaté,Féminin,65,PME,Conakry,Conakry,Guinée,2023-05-22,Agence,Résilié
+CLT-0975,Fatoumata Kouyaté,Féminin,40,PME,Boké,Basse Guinée,Guinée,2022-04-07,Campagne digitale,Inactif
+CLT-0976,Fatoumata Keita,Masculin,31,PME,Conakry,Conakry,Guinée,2024-01-21,Prospection commerciale,Actif
+CLT-0977,Mariama Baldé,Masculin,57,PME,Nzérékoré,Guinée Forestière,Guinée,2022-08-02,Courtier,Inactif
+CLT-0978,Kadiatou Bangoura,Féminin,66,Particulier,Labé,Moyenne Guinée,Guinée,2024-10-12,Partenaire bancaire,Actif
+CLT-0979,Kadiatou Sylla,Masculin,41,Grande Entreprise,Conakry,Conakry,Guinée,2024-07-17,Prospection commerciale,Inactif
+CLT-0980,Kadiatou Bangoura,Féminin,49,Professionnel,Labé,Moyenne Guinée,Guinée,2024-05-13,Prospection commerciale,Actif
+CLT-0981,Rabi Diallo,Féminin,58,PME,Siguiri,Haute Guinée,Guinée,2020-11-10,Courtier,Actif
+CLT-0982,Oumou Traoré,Féminin,47,Particulier,Labé,Moyenne Guinée,Guinée,2022-08-30,Recommandation,Actif
+CLT-0983,Aminata Barry,Féminin,32,Particulier,Nzérékoré,Guinée Forestière,Guinée,2020-03-06,Prospection commerciale,Actif
+CLT-0984,Thierno Traoré,Masculin,26,Grande Entreprise,Conakry,Conakry,Guinée,2021-02-25,Agence,Actif
+CLT-0985,Elhadj Bah,Masculin,45,Particulier,Conakry,Conakry,Guinée,2024-10-26,Campagne digitale,Actif
+CLT-0986,Mohamed Sow,Masculin,48,Particulier,Conakry,Conakry,Guinée,2025-05-10,Agence,Actif
+CLT-0987,Lansana Bangoura,Masculin,67,Professionnel,Conakry,Conakry,Guinée,2023-03-23,Courtier,Actif
+CLT-0988,Aminata Traoré,Féminin,22,Grande Entreprise,Kindia,Basse Guinée,Guinée,2024-08-15,Campagne digitale,Actif
+CLT-0989,Mariama Soumah,Masculin,58,PME,Kindia,Basse Guinée,Guinée,2023-03-25,Recommandation,Actif
+CLT-0990,Binta Guilavogui,Féminin,66,PME,Boké,Basse Guinée,Guinée,2022-03-11,Partenaire bancaire,Inactif
+CLT-0991,Daouda Condé,Masculin,33,PME,Boké,Basse Guinée,Guinée,2022-07-26,Campagne digitale,Résilié
+CLT-0992,Kadiatou Camara,Masculin,47,Professionnel,Conakry,Conakry,Guinée,2024-12-18,Agence,Actif
+CLT-0993,Mariama Traoré,Féminin,53,Particulier,Faranah,Haute Guinée,Guinée,2020-09-05,Courtier,Actif
+CLT-0994,Mariama Soumah,Masculin,48,Particulier,Kindia,Basse Guinée,Guinée,2022-11-02,Recommandation,Actif
+CLT-0995,Elhadj Millimono,Masculin,43,Professionnel,Siguiri,Haute Guinée,Guinée,2022-03-23,Recommandation,Actif
+CLT-0996,Mohamed Soumah,Masculin,64,Professionnel,Kankan,Haute Guinée,Guinée,2020-05-19,Recommandation,Actif
+CLT-0997,Elhadj Sylla,Masculin,52,PME,Mamou,Moyenne Guinée,Guinée,2020-12-15,Recommandation,Actif
+CLT-0998,Lansana Camara,Masculin,56,Professionnel,Conakry,Conakry,Guinée,2023-10-07,Recommandation,Actif
+CLT-0999,Elhadj Guilavogui,Masculin,33,Particulier,Conakry,Conakry,Guinée,2023-10-14,Partenaire bancaire,Actif
+CLT-1000,Mariama Camara,Masculin,46,Professionnel,Kankan,Haute Guinée,Guinée,2023-05-10,Recommandation,Actif

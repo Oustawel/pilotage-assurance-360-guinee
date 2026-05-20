@@ -1,0 +1,73 @@
+﻿Table,Colonne,Description,Type Donnée,Exemple
+Clients,ID Client,Identifiant unique du client,Texte,CLT-0001
+Clients,Nom Client,Nom complet du client,Texte,Mamadou Diallo
+Clients,Genre,Genre du client,Texte,Masculin
+Clients,Âge,Âge du client en années,Entier,35
+Clients,Segment Client,Segment commercial du client,Texte,PME
+Clients,Ville,Ville de résidence ou d'activité,Texte,Conakry
+Clients,Région,Région administrative de Guinée,Texte,Conakry
+Clients,Pays,Pays du client,Texte,Guinée
+Clients,Date Inscription,Date d'entrée en relation avec AssurGuinée,Date,2023-03-15
+Clients,Canal Acquisition,Canal par lequel le client a été acquis,Texte,Agence
+Clients,Statut Client,Statut actuel du client,Texte,Actif
+Produits,ID Produit,Identifiant unique du produit,Texte,PRD-001
+Produits,Nom Produit,Nom commercial du produit,Texte,Assurance Auto Essentielle
+Produits,Catégorie Produit,Catégorie métier du produit,Texte,Auto
+Produits,Type Couverture,Description de la couverture proposée,Texte,Tous risques partiels
+Produits,Niveau Risque,Niveau de risque estimé du produit,Texte,Élevé
+Produits,Taux Commission Standard,Taux de commission standard en %,Décimal,8
+Agences,ID Agence,Identifiant unique de l'agence,Texte,AGC-001
+Agences,Nom Agence,Nom de l'agence,Texte,Agence Conakry Kaloum
+Agences,Ville Agence,Ville de l'agence,Texte,Conakry
+Agences,Région Agence,Région de l'agence,Texte,Conakry
+Agences,Pays,Pays de l'agence,Texte,Guinée
+Agences,Type Agence,Catégorie de l'agence,Texte,Siège
+Agents,ID Agent,Identifiant unique de l'agent,Texte,AGT-001
+Agents,Nom Agent,Nom complet de l'agent,Texte,Ibrahima Bah
+Agents,ID Agence,Agence de rattachement de l'agent,Texte,AGC-001
+Agents,Canal Vente,Canal de vente principal de l'agent,Texte,Agence
+Agents,Date Recrutement,Date d'entrée de l'agent,Date,2021-06-01
+Agents,Niveau Expérience,Niveau d'expérience de l'agent,Texte,Confirmé
+Contrats,ID Contrat,Identifiant unique du contrat,Texte,CTR-00001
+Contrats,ID Client,Client souscripteur du contrat,Texte,CLT-0001
+Contrats,ID Produit,Produit souscrit,Texte,PRD-001
+Contrats,ID Agent,Agent ayant souscrit le contrat,Texte,AGT-001
+Contrats,ID Agence,Agence émettrice du contrat,Texte,AGC-001
+Contrats,Date Début,Date de début de couverture,Date,2023-01-15
+Contrats,Date Fin,Date de fin de couverture,Date,2024-01-15
+Contrats,Statut Contrat,Statut actuel du contrat,Texte,Actif
+Contrats,Montant Prime,Montant annuel de la prime en GNF,Entier,3500000
+Contrats,Montant Commission,Commission versée à l'agent en GNF,Entier,280000
+Contrats,Fréquence Paiement,Fréquence de paiement de la prime,Texte,Mensuelle
+Contrats,Renouvelé,Le contrat a-t-il été renouvelé ?,Texte,Oui
+Contrats,Mode Paiement,Mode de paiement utilisé,Texte,Mobile Money
+Contrats,Durée Contrat Mois,Durée du contrat en mois,Entier,12
+Sinistres,ID Sinistre,Identifiant unique du sinistre,Texte,SIN-00001
+Sinistres,ID Contrat,Contrat associé au sinistre,Texte,CTR-00001
+Sinistres,Date Sinistre,Date de survenance du sinistre,Date,2023-06-10
+Sinistres,Type Sinistre,Nature du sinistre déclaré,Texte,Accident
+Sinistres,Montant Réclamé,Montant réclamé par l'assuré en GNF,Entier,1200000
+Sinistres,Montant Réglé,Montant effectivement réglé en GNF,Entier,950000
+Sinistres,Statut Sinistre,Statut de traitement du sinistre,Texte,Réglé
+Sinistres,Date Règlement,Date de règlement du sinistre,Date,2023-07-05
+Sinistres,Délai Règlement Jours,Délai en jours entre sinistre et règlement,Entier,25
+Sinistres,Gravité Sinistre,Niveau de gravité du sinistre,Texte,Moyenne
+Objectifs,ID Objectif,Identifiant unique de l'objectif,Texte,OBJ-00001
+Objectifs,Année,Année de l'objectif,Entier,2024
+Objectifs,Mois,Numéro du mois de l'objectif,Entier,3
+Objectifs,ID Agence,Agence concernée,Texte,AGC-001
+Objectifs,ID Produit,Produit concerné,Texte,PRD-001
+Objectifs,Objectif Primes,Objectif mensuel de primes en GNF,Entier,500000000
+Objectifs,Objectif Nouveaux Contrats,Nombre de nouveaux contrats visés,Entier,30
+Objectifs,Objectif Taux Renouvellement,Taux de renouvellement cible,Décimal,0.70
+Objectifs,Objectif Ratio Sinistres Primes,Ratio sinistres/primes cible,Décimal,0.55
+Calendrier,Date,Date complète,Date,2023-01-01
+Calendrier,Année,Année civile,Entier,2023
+Calendrier,Trimestre,Trimestre (T1 à T4),Texte,T1
+Calendrier,Mois Numéro,Numéro du mois (1–12),Entier,1
+Calendrier,Mois,Nom du mois en français,Texte,Janvier
+Calendrier,Année-Mois,Clé combinée année-mois,Texte,2023-01
+Calendrier,Début Mois,Premier jour du mois,Date,2023-01-01
+Calendrier,Fin Mois,Dernier jour du mois,Date,2023-01-31
+Calendrier,Nom Jour,Nom du jour de la semaine en français,Texte,Dimanche
+Calendrier,Numéro Semaine,Numéro de semaine ISO,Entier,1

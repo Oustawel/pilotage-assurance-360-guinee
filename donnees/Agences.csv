@@ -1,0 +1,13 @@
+﻿ID Agence,Nom Agence,Ville Agence,Région Agence,Pays,Type Agence
+AGC-001,Agence Conakry Kaloum,Conakry,Conakry,Guinée,Siège
+AGC-002,Agence Conakry Ratoma,Conakry,Conakry,Guinée,Agence principale
+AGC-003,Agence Conakry Matoto,Conakry,Conakry,Guinée,Agence principale
+AGC-004,Agence Kindia Centre,Kindia,Basse Guinée,Guinée,Agence régionale
+AGC-005,Agence Labé Centre,Labé,Moyenne Guinée,Guinée,Agence régionale
+AGC-006,Agence Kankan Centre,Kankan,Haute Guinée,Guinée,Agence régionale
+AGC-007,Agence Nzérékoré Centre,Nzérékoré,Guinée Forestière,Guinée,Agence régionale
+AGC-008,Agence Boké Centre,Boké,Basse Guinée,Guinée,Agence régionale
+AGC-009,Agence Mamou Centre,Mamou,Moyenne Guinée,Guinée,Point de service
+AGC-010,Agence Faranah Centre,Faranah,Haute Guinée,Guinée,Point de service
+AGC-011,Agence Siguiri,Siguiri,Haute Guinée,Guinée,Point de service
+AGC-012,Agence Guéckédou,Guéckédou,Guinée Forestière,Guinée,Point de service

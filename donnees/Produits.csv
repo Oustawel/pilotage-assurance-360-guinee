@@ -1,0 +1,9 @@
+﻿ID Produit,Nom Produit,Catégorie Produit,Type Couverture,Niveau Risque,Taux Commission Standard
+PRD-001,Assurance Auto Essentielle,Auto,Tous risques partiels,Élevé,8
+PRD-002,Assurance Auto Premium,Auto,Tous risques complets,Élevé,10
+PRD-003,Assurance Santé Famille,Santé,Hospitalisation + soins,Élevé,9
+PRD-004,Assurance Habitation Confort,Habitation,Multirisque habitation,Moyen,7
+PRD-005,Assurance Voyage Afrique,Voyage,Assistance voyage,Faible,6
+PRD-006,Assurance Vie Épargne,Vie,Capital + épargne,Faible,11
+PRD-007,Assurance Entreprise PME,Entreprise,Risques professionnels,Moyen,12
+PRD-008,Assurance Multirisque Professionnelle,Multirisque Professionnelle,Risques multiples pro,Moyen,13
