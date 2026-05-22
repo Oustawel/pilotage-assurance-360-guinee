@@ -204,3 +204,5 @@ La marge estimée est calculée simplement à partir des primes, des sinistres r
 ## Auteur
 
 Projet réalisé par **Ousmane Tawel Camara** dans le cadre d’un portfolio Data / Business Intelligence.
+
+Ci joint le lien POWER BI pour y accéder : https://app.powerbi.com/view?r=eyJrIjoiYmQzZTczNzgtYmM5My00MjlkLTljNjMtZmY0MDgyZjBjM2MyIiwidCI6IjA4ZDMyNzNmLWIxMmEtNDgxNi05NzQzLWI2NGQwMzJkMWU3NSJ9
